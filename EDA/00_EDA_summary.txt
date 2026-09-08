@@ -1,0 +1,117 @@
+======================================================================
+EDA — Flood Dynamics in South Sudan  (JBG060 Group 12)
+======================================================================
+
+── 1. Administrative Boundaries ──
+  Admin-1 (states): 10 regions | columns: ['adm1_name', 'adm1_name1', 'adm1_name2', 'adm1_name3', 'adm1_pcode', 'adm0_name', 'adm0_name1', 'adm0_name2', 'adm0_name3', 'adm0_pcode', 'valid_on', 'valid_to', 'area_sqkm', 'version', 'lang', 'lang1', 'lang2', 'lang3', 'adm1_ref_name', 'center_lat', 'center_lon', 'geometry']
+  Admin-2 (counties): 79 regions | columns: ['adm2_name', 'adm2_name1', 'adm2_name2', 'adm2_name3', 'adm2_pcode', 'adm1_name', 'adm1_name1', 'adm1_name2', 'adm1_name3', 'adm1_pcode', 'adm0_name', 'adm0_name1', 'adm0_name2', 'adm0_name3', 'adm0_pcode', 'valid_on', 'valid_to', 'area_sqkm', 'version', 'lang', 'lang1', 'lang2', 'lang3', 'adm2_ref_name', 'center_lat', 'center_lon', 'geometry']
+  → saved 01_admin_boundaries.png
+
+── 2. Discharge — Dartmouth Flood Observatory ──
+  Stations: 13
+  Columns: ['station nr', 'area id', 'Country', 'latitude', 'longitude']
+ station nr  area id     Country  latitude  longitude
+        334   100205 South Sudan       9.6       31.6
+        224     1541       Sudan      12.4       32.8
+        225     1542       Sudan      13.9       32.4
+        226     1543       Sudan      14.9       32.2
+        227     1544       Sudan      13.1       33.9
+        228     1545       Sudan      13.8       33.6
+        229     1547       Sudan      15.6       32.4
+        230     1548       Sudan      16.6       32.9
+        289    11808       Sudan      18.8       32.0
+        290    11842       Sudan      21.5       31.0
+        293    28546       Sudan      14.9       35.8
+        334   100205       Sudan       9.6       31.6
+        217     1505    Ethiopia       4.9       36.0
+
+  Loaded 12 discharge time series
+
+  Discharge stats per station:
+ area_id country  n_obs date_start   date_end     mean     std     min      max
+  100205          10366 1998-01-01 2026-05-19  5401.83  471.16 1725.36  6154.75
+    1541          10366 1998-01-01 2026-05-19  6616.26  749.61 5170.81 12083.08
+    1542          10366 1998-01-01 2026-05-19  5758.89 1713.82  931.72 14787.98
+    1543          10366 1998-01-01 2026-05-19  6437.22  199.41 5924.20  7006.68
+    1544          10366 1998-01-01 2026-05-19  1924.51 1259.78    0.00  4559.54
+    1545          10366 1998-01-01 2026-05-19  2251.20 1203.40    0.00  5251.34
+    1547          10366 1998-01-01 2026-05-19  6617.71 2740.57  678.43 23167.51
+    1548          10366 1998-01-01 2026-05-19  9333.18 4316.56 2598.35 40226.32
+   11808          10366 1998-01-01 2026-05-19 11035.81  908.64 9787.35 12319.30
+   11842          10366 1998-01-01 2026-05-19 10342.88 2258.85 4270.39 18602.69
+   28546          10366 1998-01-01 2026-05-19   378.18  340.19    0.00  2488.16
+    1505          10366 1998-01-01 2026-05-19    48.28   21.93   13.79   178.80
+  → saved 02_discharge_timeseries.png, 02_discharge_stats.csv
+
+── 3. Lake Water Levels ──
+  Albert: 850 obs  |  2002-07-10 – 2026-04-25
+    columns: ['water_level', 'error']
+  victoria: 329 obs  |  1992-10-07 – 2002-08-06
+  Kyoga: 156 obs  |  1992-09-27 – 2002-07-27
+  → saved 03_lake_water_levels.png
+
+── 4. Rainfall & Runoff (ERA5) — sample year 2020 ──
+  Dimensions: {'valid_time': 366, 'latitude': 145, 'longitude': 57}
+  Variables: ['tp', 'ro']
+  Lat range: -3.00 – 33.00
+  Lon range: 23.00 – 37.00
+  Basin mean precipitation 2020: 617.8 mm/year
+  Basin mean runoff 2020: 148.9 mm/year
+  → saved 04_rainfall_runoff_2020.png, 04_rainfall_spatial_2020.png
+
+── 5. Flood Masks ──
+  Available years: [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  Loaded 42,013,858 flood events (2023–2025)
+  Recurring: 4,623,174  |  Unusual: 37,390,684
+  Lat range: 0.001 – 9.999
+  Lon range: 20.001 – 39.999
+  → saved 05_flood_masks.png
+
+── 6. WorldPop Population ──
+  Available years: [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+  Total population by year:
+    2015: 11,113,213
+    2016: 11,101,904
+    2017: 10,558,273
+    2018: 9,960,030
+    2019: 10,285,975
+    2020: 10,560,796
+    2021: 10,836,084
+    2022: 10,895,454
+    2023: 11,146,872
+    2024: 11,819,857
+    2025: 12,066,930
+  → saved 06_worldpop_trend.png, 06_worldpop_map.png
+
+── 7. Health Facilities ──
+  Total sub-Saharan facilities: 69,752
+  South Sudan facilities: 1,747
+  → saved 07_health_facilities.png
+
+── 8. Cattle Distribution ──
+  Raster shape: (419, 355)
+  Total cattle (Greater Horn of Africa): 153,513,716
+  → saved 08_cattle_distribution.png
+
+── 9. Farmland Masks (South Sudan bbox) ──
+  crop: mean=7.3%  max=100.0%  pixels with >10%: 774,580
+  rangeland: mean=51.2%  max=100.0%  pixels with >10%: 4,734,476
+  → saved 09_farmland_masks.png
+
+── 10. GDP — South Sudan ──
+  GDP years available: [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]
+    2008: $14.59B
+    2009: $12.23B
+    2010: $14.60B
+    2011: $14.91B
+    2012: $11.93B
+    2013: $18.43B
+    2014: $13.96B
+    2015: $12.00B
+  → saved 10_gdp.png
+
+── 11. IPC Food Security (Phase 3+) ──
+  IPC files: ['IPC_SS_Acute_Food_Insecurity_March_2022_2026-06-11.xlsx', 'IPC_SS_Acute_Food_Insecurity_October_2022_2026-06-11.xlsx', 'IPC_SS_Acute_Food_Insecurity_September_2023_2026-06-11.xlsx', 'IPC_SS_Acute_Food_Insecurity_September_2024_2026-06-11.xlsx', 'IPC_SS_Acute_Food_Insecurity_September_2025_2026-06-11.xlsx']
+  Rows loaded: 399  |  counties: 81
+  Date range: NaT – NaT
+  → saved 11_ipc_heatmap.png, 11_ipc_phase3plus.csv
