@@ -1,0 +1,16 @@
+setting,value
+lat_min,6.5
+lat_max,11.0
+lon_min,28.5
+lon_max,33.0
+grid_res_deg,0.05
+flood_year_first,2019
+flood_year_last,2024
+population_year,2024
+min_cover_pct,5
+flood_detections,35189005
+detections_recurring,1959267
+detections_unusual,33229738
+population_in_box,4604107.0
+cattle_in_box,5770473.0
+exported_at,2026-09-10T13:23:01
