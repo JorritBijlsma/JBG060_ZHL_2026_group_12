@@ -1,0 +1,7 @@
+DROUGHT SUMMARY
+==================================================
+Total months analyzed: 96
+Months with drought (SPI < -1): 27
+Months with severe drought (SPI < -1.5): 0
+Minimum SPI: nan
+Mean SPI: nan

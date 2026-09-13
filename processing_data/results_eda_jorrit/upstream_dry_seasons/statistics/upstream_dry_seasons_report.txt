@@ -1,0 +1,89 @@
+
+================================================================================
+UPSTREAM DRY SEASONS vs SOUTH SUDAN FLOODS
+Generated: 2026-09-13 16:03
+================================================================================
+
+1. DRY SEASON CHARACTERISTICS BY COUNTRY
+--------------------------------------------------------------------------------
+South Sudan    : mean= 54.3d, min= 27d, max= 84d, n=25 years
+Uganda         : mean= 10.4d, min=  5d, max= 23d, n=25 years
+NE DRC         : mean= 24.8d, min= 11d, max= 56d, n=25 years
+Ethiopia       : mean= 43.0d, min= 16d, max= 77d, n=25 years
+West Kenya     : mean= 10.0d, min=  5d, max= 23d, n=25 years
+Sudan central  : mean=143.8d, min=105d, max=193d, n=25 years
+
+2. UPSTREAM DRY SEASON → SSD FLOODS CORRELATIONS
+--------------------------------------------------------------------------------
+Uganda          dry_duration    flood_mean   r= -0.024 (p=0.910) ns
+Uganda          dry_end_doy     flood_mean   r= -0.014 (p=0.947) ns
+Uganda          dry_duration    flood_sum    r= -0.022 (p=0.917) ns
+Uganda          dry_end_doy     flood_sum    r= -0.012 (p=0.956) ns
+Uganda          dry_duration    flood_max    r=  0.008 (p=0.969) ns
+Uganda          dry_end_doy     flood_max    r= -0.038 (p=0.855) ns
+NE DRC          dry_duration    flood_mean   r=  0.761 (p=0.000) ***
+NE DRC          dry_end_doy     flood_mean   r= -0.138 (p=0.511) ns
+NE DRC          dry_duration    flood_sum    r=  0.762 (p=0.000) ***
+NE DRC          dry_end_doy     flood_sum    r= -0.139 (p=0.506) ns
+NE DRC          dry_duration    flood_max    r=  0.733 (p=0.000) ***
+NE DRC          dry_end_doy     flood_max    r= -0.084 (p=0.689) ns
+Ethiopia        dry_duration    flood_mean   r=  0.138 (p=0.510) ns
+Ethiopia        dry_end_doy     flood_mean   r=  0.233 (p=0.262) ns
+Ethiopia        dry_duration    flood_sum    r=  0.140 (p=0.504) ns
+Ethiopia        dry_end_doy     flood_sum    r=  0.234 (p=0.260) ns
+Ethiopia        dry_duration    flood_max    r=  0.125 (p=0.550) ns
+Ethiopia        dry_end_doy     flood_max    r=  0.155 (p=0.459) ns
+West Kenya      dry_duration    flood_mean   r= -0.096 (p=0.648) ns
+West Kenya      dry_end_doy     flood_mean   r= -0.050 (p=0.812) ns
+West Kenya      dry_duration    flood_sum    r= -0.096 (p=0.649) ns
+West Kenya      dry_end_doy     flood_sum    r= -0.050 (p=0.813) ns
+West Kenya      dry_duration    flood_max    r= -0.071 (p=0.737) ns
+West Kenya      dry_end_doy     flood_max    r= -0.059 (p=0.778) ns
+Sudan central   dry_duration    flood_mean   r=  0.469 (p=0.018) *
+Sudan central   dry_end_doy     flood_mean   r=  0.469 (p=0.018) *
+Sudan central   dry_duration    flood_sum    r=  0.470 (p=0.018) *
+Sudan central   dry_end_doy     flood_sum    r=  0.470 (p=0.018) *
+Sudan central   dry_duration    flood_max    r=  0.440 (p=0.028) *
+Sudan central   dry_end_doy     flood_max    r=  0.440 (p=0.028) *
+
+3. TIMING: UPSTREAM DRY SEASON END → SSD FLOOD PEAK
+--------------------------------------------------------------------------------
+NE DRC         : mean lag =   78.7 days (median -11, n=22 years)
+South Sudan    : mean lag =   91.8 days (median -29, n=25 years)
+West Kenya     : mean lag =  105.2 days (median -2, n=25 years)
+Ethiopia       : mean lag =  116.0 days (median 94, n=22 years)
+Uganda         : mean lag =  121.2 days (median 26, n=21 years)
+Sudan central  : mean lag =  166.8 days (median 193, n=13 years)
+
+4. ANOMALY ANALYSIS (Year-to-Year Variability)
+--------------------------------------------------------------------------------
+NE DRC         : r=  0.761 (p=0.000) ***
+Sudan central  : r=  0.469 (p=0.018) *
+Ethiopia       : r=  0.138 (p=0.510) ns
+West Kenya     : r= -0.096 (p=0.648) ns
+Uganda         : r= -0.024 (p=0.910) ns
+
+5. INTERPRETATION
+--------------------------------------------------------------------------------
+This analysis tests whether dry seasons in upstream countries control
+flood timing and severity in South Sudan.
+
+Three possible outcomes:
+(a) SIGNIFICANT positive correlation: Longer upstream dry seasons delay
+    water release, shifting flood timing and potentially reducing total floods
+(b) SIGNIFICANT negative correlation: Longer dry seasons dry the basin,
+    causing MORE flooding when the rains finally arrive
+(c) NO correlation: Dry seasons in upstream countries have little effect
+    because the flow is buffered by lakes/reservoirs
+
+The evidence above shows which mechanism dominates.
+
+6. PRACTICAL IMPLICATIONS
+--------------------------------------------------------------------------------
+If upstream dry seasons predict SSD floods:
+- Monitor upstream dry season start/end dates for early warning
+- Use dry season duration anomaly as a flood risk indicator
+- Plan harvest window based on upstream dry season timing
+- Target interventions (prepositioning) using this 2-3 month signal
+
+================================================================================
