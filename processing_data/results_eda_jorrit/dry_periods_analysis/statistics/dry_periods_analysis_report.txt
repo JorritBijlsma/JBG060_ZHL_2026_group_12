@@ -1,0 +1,49 @@
+
+================================================================================
+DRY PERIODS & FLOOD ANALYSIS - SOUTH SUDAN
+Generated: 2026-09-10 18:10
+================================================================================
+
+1. DATA
+--------------------------------------------------------------------------------
+Period:        2000-01-01 to 2024-12-31
+Days:          9132
+Mean rainfall: 2.46 mm/day
+Annual avg:    898 mm/year
+Flood events:  52,181,279 pixel-days
+Flood days:    8644
+
+2. DRY PERIODS (abs_1.0mm)
+--------------------------------------------------------------------------------
+Count:          494
+Mean duration:  7.0 days
+Median duration:2 days
+Max duration:   112 days
+% of days dry:  38.1%
+
+3. ANTECEDENT DRY DAYS: FLOODS vs NON-FLOODS
+--------------------------------------------------------------------------------
+7.0d lookback: floods=2.7d, non-floods=2.0d, diff=+0.7
+14.0d lookback: floods=5.4d, non-floods=3.9d, diff=+1.5
+30.0d lookback: floods=11.5d, non-floods=8.2d, diff=+3.3
+60.0d lookback: floods=22.9d, non-floods=16.6d, diff=+6.3
+90.0d lookback: floods=34.1d, non-floods=28.7d, diff=+5.5
+120.0d lookback: floods=45.2d, non-floods=43.5d, diff=+1.7
+180.0d lookback: floods=67.4d, non-floods=76.2d, diff=-8.7
+
+4. DRY DURATION → FLOOD SEVERITY
+--------------------------------------------------------------------------------
+Dry periods (≥5d) followed by floods: 108
+Mean duration: 26.1 days
+Mean days to first flood: 1.1
+Pearson r  (duration → flood severity): -0.107 (p=0.2685)
+Spearman r (duration → flood severity): -0.150 (p=0.1212)
+
+5. KEY TAKEAWAYS
+--------------------------------------------------------------------------------
+- Dry periods are longest in Dec-Mar (dry season), shortest Jun-Sep (wet season)
+- Average annual rainfall: 898 mm (realistic for SSD)
+- Flood activity peaks in Aug-Oct, aligned with wet season
+- Best correlation lookback: see section 3 above
+
+================================================================================

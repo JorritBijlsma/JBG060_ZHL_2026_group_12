@@ -1,0 +1,4 @@
+season,rainfall_mean,rainfall_max,runoff_mean,flood_mean,flood_max,n_days
+dry,0.21,5.94,0.1,12883.01,116215,2257
+transition,2.22,13.24,0.33,4704.12,106819,3825
+wet,4.43,24.55,0.54,1675.76,49202,3050

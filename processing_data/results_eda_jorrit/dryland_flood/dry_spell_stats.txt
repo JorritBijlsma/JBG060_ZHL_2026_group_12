@@ -1,0 +1,6 @@
+DRY SPELL STATISTICS
+==================================================
+Total dry days: 2922
+Mean dry spell length: 2922.0 days
+Max dry spell length: 2922 days
+Number of dry spells: 1

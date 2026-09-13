@@ -1,0 +1,101 @@
+
+================================================================================
+ADVANCED FLOOD ANALYSIS - SOUTH SUDAN
+Generated: 2026-09-10 19:22
+================================================================================
+
+1. DATA SUMMARY
+--------------------------------------------------------------------------------
+Period:              2000-01-01 to 2024-12-31
+Total days:          9132
+Mean rainfall:       2.46 mm/day
+Mean flood extent:   5,714 pixels/day
+
+2. SEASONAL PATTERNS
+--------------------------------------------------------------------------------
+       Dry season: rain=0.21 mm/d, flood=12,883 pixels, n=2257
+       Wet season: rain=4.43 mm/d, flood=1,676 pixels, n=3050
+Transition season: rain=2.22 mm/d, flood=4,704 pixels, n=3825
+
+KEY FINDING: Floods peak in the DRY season (Dec-Feb)
+  Dry season mean flood: 12,883 pixels/day
+  Wet season mean flood: 1,676 pixels/day
+  Ratio: 7.7x higher in dry season
+
+3. LAG ANALYSIS (Rainfall → Flood)
+--------------------------------------------------------------------------------
+Best raw rainfall lag: 120 days (r=0.183)
+Best cumulative lag:   90 days (r=0.235)
+
+Top 5 lags by correlation:
+  Lag 120.0d: r=0.183 (p=2.31e-68)
+  Lag 150.0d: r=0.182 (p=2.05e-67)
+  Lag 105.0d: r=0.140 (p=1.73e-40)
+  Lag 180.0d: r=0.128 (p=7.65e-34)
+  Lag 90.0d: r=0.087 (p=1.40e-16)
+
+4. DRY PERIOD EFFECT BY SEASON
+--------------------------------------------------------------------------------
+       dry season,   7d lookback: r=  0.087 ***
+       dry season,  14d lookback: r=  0.064 **
+       dry season,  30d lookback: r=  0.055 **
+       dry season,  60d lookback: r=  0.018 
+       wet season,   7d lookback: r=  0.223 ***
+       wet season,  14d lookback: r=  0.292 ***
+       wet season,  30d lookback: r=  0.332 ***
+       wet season,  60d lookback: r=  0.334 ***
+transition season,   7d lookback: r=  0.237 ***
+transition season,  14d lookback: r=  0.202 ***
+transition season,  30d lookback: r=  0.121 ***
+transition season,  60d lookback: r=  0.013 
+
+5. DISCHARGE STATIONS (Top 5)
+--------------------------------------------------------------------------------
+  Station 11808.0: lag=0d, r=0.347
+  Station 1505.0: lag=7d, r=0.312
+  Station 1547.0: lag=60d, r=0.293
+  Station 1543.0: lag=0d, r=0.279
+  Station 1541.0: lag=60d, r=0.182
+
+6. TOP FEATURES FOR PREDICTION
+--------------------------------------------------------------------------------
+  flood_lag_7               r=  0.840
+  flood_lag_14              r=  0.806
+  flood_lag_30              r=  0.736
+  flood_lag_60              r=  0.552
+  flood_lag_90              r=  0.400
+  dry_days_7                r=  0.340
+  dry_days_14               r=  0.331
+  rain_cumul_7              r= -0.313
+  rain_cumul_14             r= -0.307
+  dry_days_30               r=  0.307
+
+7. INTERPRETATION
+--------------------------------------------------------------------------------
+The flood dynamics in South Sudan are dominated by FLUVIAL (river-driven)
+processes, not PLUVIAL (rainfall-driven) ones:
+
+1. Floods peak in Dec-Feb (dry season) — 5-10x higher than wet season peaks
+2. This is because water from the White Nile arrives months after upstream
+   rainfall in Uganda/Ethiopia/South Sudan highlands
+3. Local rainfall in South Sudan's wet season (Jun-Sep) actually correlates
+   NEGATIVELY with flood extent (more rain = less flooding at peak)
+4. Dry periods before floods reflect the SEASONAL TIMING of floods, not
+   the local soil moisture effect
+
+IMPLICATIONS FOR FLOOD FORECASTING:
+- Use upstream basin rainfall (2-4 month lag) as primary predictor
+- Local rainfall is NOT a good flood predictor at short lags
+- River discharge data should be the primary monitoring tool
+- Flood early warning should focus on river gauges, not rain gauges
+
+8. NEXT STEPS
+--------------------------------------------------------------------------------
+1. Acquire upstream basin rainfall (Uganda, Ethiopia, Blue Nile)
+2. Correlate with river discharge at key stations
+3. Build statistical flood forecasting model with 30-90 day lead time
+4. Assess exposure of farmland/population to dry-season flooding
+
+================================================================================
+END OF REPORT
+================================================================================
