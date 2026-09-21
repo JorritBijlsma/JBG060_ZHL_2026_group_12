@@ -1,0 +1,1450 @@
+region,threshold,threshold_value,year,dry_duration
+South Sudan,abs_0.5mm,0.5,2000,82
+South Sudan,abs_0.5mm,0.5,2001,40
+South Sudan,abs_0.5mm,0.5,2002,51
+South Sudan,abs_0.5mm,0.5,2003,30
+South Sudan,abs_0.5mm,0.5,2004,21
+South Sudan,abs_0.5mm,0.5,2005,39
+South Sudan,abs_0.5mm,0.5,2006,37
+South Sudan,abs_0.5mm,0.5,2007,33
+South Sudan,abs_0.5mm,0.5,2008,24
+South Sudan,abs_0.5mm,0.5,2009,22
+South Sudan,abs_0.5mm,0.5,2010,25
+South Sudan,abs_0.5mm,0.5,2011,53
+South Sudan,abs_0.5mm,0.5,2012,32
+South Sudan,abs_0.5mm,0.5,2013,25
+South Sudan,abs_0.5mm,0.5,2014,31
+South Sudan,abs_0.5mm,0.5,2015,55
+South Sudan,abs_0.5mm,0.5,2016,61
+South Sudan,abs_0.5mm,0.5,2017,39
+South Sudan,abs_0.5mm,0.5,2018,47
+South Sudan,abs_0.5mm,0.5,2019,51
+South Sudan,abs_0.5mm,0.5,2020,32
+South Sudan,abs_0.5mm,0.5,2021,47
+South Sudan,abs_0.5mm,0.5,2022,51
+South Sudan,abs_0.5mm,0.5,2023,57
+South Sudan,abs_0.5mm,0.5,2024,34
+South Sudan,abs_1.0mm,1.0,2000,82
+South Sudan,abs_1.0mm,1.0,2001,62
+South Sudan,abs_1.0mm,1.0,2002,51
+South Sudan,abs_1.0mm,1.0,2003,31
+South Sudan,abs_1.0mm,1.0,2004,35
+South Sudan,abs_1.0mm,1.0,2005,56
+South Sudan,abs_1.0mm,1.0,2006,52
+South Sudan,abs_1.0mm,1.0,2007,53
+South Sudan,abs_1.0mm,1.0,2008,48
+South Sudan,abs_1.0mm,1.0,2009,27
+South Sudan,abs_1.0mm,1.0,2010,43
+South Sudan,abs_1.0mm,1.0,2011,56
+South Sudan,abs_1.0mm,1.0,2012,47
+South Sudan,abs_1.0mm,1.0,2013,38
+South Sudan,abs_1.0mm,1.0,2014,61
+South Sudan,abs_1.0mm,1.0,2015,56
+South Sudan,abs_1.0mm,1.0,2016,67
+South Sudan,abs_1.0mm,1.0,2017,74
+South Sudan,abs_1.0mm,1.0,2018,50
+South Sudan,abs_1.0mm,1.0,2019,54
+South Sudan,abs_1.0mm,1.0,2020,36
+South Sudan,abs_1.0mm,1.0,2021,74
+South Sudan,abs_1.0mm,1.0,2022,51
+South Sudan,abs_1.0mm,1.0,2023,70
+South Sudan,abs_1.0mm,1.0,2024,84
+South Sudan,abs_2.0mm,2.0,2000,83
+South Sudan,abs_2.0mm,2.0,2001,65
+South Sudan,abs_2.0mm,2.0,2002,68
+South Sudan,abs_2.0mm,2.0,2003,51
+South Sudan,abs_2.0mm,2.0,2004,93
+South Sudan,abs_2.0mm,2.0,2005,69
+South Sudan,abs_2.0mm,2.0,2006,68
+South Sudan,abs_2.0mm,2.0,2007,74
+South Sudan,abs_2.0mm,2.0,2008,51
+South Sudan,abs_2.0mm,2.0,2009,58
+South Sudan,abs_2.0mm,2.0,2010,54
+South Sudan,abs_2.0mm,2.0,2011,79
+South Sudan,abs_2.0mm,2.0,2012,103
+South Sudan,abs_2.0mm,2.0,2013,75
+South Sudan,abs_2.0mm,2.0,2014,68
+South Sudan,abs_2.0mm,2.0,2015,87
+South Sudan,abs_2.0mm,2.0,2016,75
+South Sudan,abs_2.0mm,2.0,2017,101
+South Sudan,abs_2.0mm,2.0,2018,54
+South Sudan,abs_2.0mm,2.0,2019,98
+South Sudan,abs_2.0mm,2.0,2020,71
+South Sudan,abs_2.0mm,2.0,2021,74
+South Sudan,abs_2.0mm,2.0,2022,82
+South Sudan,abs_2.0mm,2.0,2023,71
+South Sudan,abs_2.0mm,2.0,2024,92
+South Sudan,abs_5.0mm,5.0,2000,104
+South Sudan,abs_5.0mm,5.0,2001,93
+South Sudan,abs_5.0mm,5.0,2002,77
+South Sudan,abs_5.0mm,5.0,2003,110
+South Sudan,abs_5.0mm,5.0,2004,94
+South Sudan,abs_5.0mm,5.0,2005,116
+South Sudan,abs_5.0mm,5.0,2006,87
+South Sudan,abs_5.0mm,5.0,2007,101
+South Sudan,abs_5.0mm,5.0,2008,99
+South Sudan,abs_5.0mm,5.0,2009,98
+South Sudan,abs_5.0mm,5.0,2010,64
+South Sudan,abs_5.0mm,5.0,2011,128
+South Sudan,abs_5.0mm,5.0,2012,110
+South Sudan,abs_5.0mm,5.0,2013,117
+South Sudan,abs_5.0mm,5.0,2014,69
+South Sudan,abs_5.0mm,5.0,2015,88
+South Sudan,abs_5.0mm,5.0,2016,103
+South Sudan,abs_5.0mm,5.0,2017,113
+South Sudan,abs_5.0mm,5.0,2018,128
+South Sudan,abs_5.0mm,5.0,2019,101
+South Sudan,abs_5.0mm,5.0,2020,128
+South Sudan,abs_5.0mm,5.0,2021,114
+South Sudan,abs_5.0mm,5.0,2022,104
+South Sudan,abs_5.0mm,5.0,2023,84
+South Sudan,abs_5.0mm,5.0,2024,96
+South Sudan,roll5_1mm,1.0,2000,84
+South Sudan,roll5_1mm,1.0,2001,65
+South Sudan,roll5_1mm,1.0,2002,68
+South Sudan,roll5_1mm,1.0,2003,53
+South Sudan,roll5_1mm,1.0,2004,93
+South Sudan,roll5_1mm,1.0,2005,70
+South Sudan,roll5_1mm,1.0,2006,68
+South Sudan,roll5_1mm,1.0,2007,72
+South Sudan,roll5_1mm,1.0,2008,47
+South Sudan,roll5_1mm,1.0,2009,29
+South Sudan,roll5_1mm,1.0,2010,54
+South Sudan,roll5_1mm,1.0,2011,79
+South Sudan,roll5_1mm,1.0,2012,103
+South Sudan,roll5_1mm,1.0,2013,70
+South Sudan,roll5_1mm,1.0,2014,64
+South Sudan,roll5_1mm,1.0,2015,82
+South Sudan,roll5_1mm,1.0,2016,73
+South Sudan,roll5_1mm,1.0,2017,82
+South Sudan,roll5_1mm,1.0,2018,54
+South Sudan,roll5_1mm,1.0,2019,86
+South Sudan,roll5_1mm,1.0,2020,71
+South Sudan,roll5_1mm,1.0,2021,75
+South Sudan,roll5_1mm,1.0,2022,80
+South Sudan,roll5_1mm,1.0,2023,71
+South Sudan,roll5_1mm,1.0,2024,92
+South Sudan,roll10_1mm,1.0,2000,85
+South Sudan,roll10_1mm,1.0,2001,68
+South Sudan,roll10_1mm,1.0,2002,68
+South Sudan,roll10_1mm,1.0,2003,58
+South Sudan,roll10_1mm,1.0,2004,94
+South Sudan,roll10_1mm,1.0,2005,70
+South Sudan,roll10_1mm,1.0,2006,72
+South Sudan,roll10_1mm,1.0,2007,75
+South Sudan,roll10_1mm,1.0,2008,49
+South Sudan,roll10_1mm,1.0,2009,93
+South Sudan,roll10_1mm,1.0,2010,54
+South Sudan,roll10_1mm,1.0,2011,80
+South Sudan,roll10_1mm,1.0,2012,104
+South Sudan,roll10_1mm,1.0,2013,72
+South Sudan,roll10_1mm,1.0,2014,68
+South Sudan,roll10_1mm,1.0,2015,87
+South Sudan,roll10_1mm,1.0,2016,75
+South Sudan,roll10_1mm,1.0,2017,82
+South Sudan,roll10_1mm,1.0,2018,56
+South Sudan,roll10_1mm,1.0,2019,99
+South Sudan,roll10_1mm,1.0,2020,80
+South Sudan,roll10_1mm,1.0,2021,77
+South Sudan,roll10_1mm,1.0,2022,103
+South Sudan,roll10_1mm,1.0,2023,73
+South Sudan,roll10_1mm,1.0,2024,93
+South Sudan,roll10_2mm,2.0,2000,104
+South Sudan,roll10_2mm,2.0,2001,93
+South Sudan,roll10_2mm,2.0,2002,75
+South Sudan,roll10_2mm,2.0,2003,104
+South Sudan,roll10_2mm,2.0,2004,96
+South Sudan,roll10_2mm,2.0,2005,76
+South Sudan,roll10_2mm,2.0,2006,87
+South Sudan,roll10_2mm,2.0,2007,102
+South Sudan,roll10_2mm,2.0,2008,93
+South Sudan,roll10_2mm,2.0,2009,98
+South Sudan,roll10_2mm,2.0,2010,77
+South Sudan,roll10_2mm,2.0,2011,116
+South Sudan,roll10_2mm,2.0,2012,110
+South Sudan,roll10_2mm,2.0,2013,117
+South Sudan,roll10_2mm,2.0,2014,69
+South Sudan,roll10_2mm,2.0,2015,89
+South Sudan,roll10_2mm,2.0,2016,103
+South Sudan,roll10_2mm,2.0,2017,107
+South Sudan,roll10_2mm,2.0,2018,87
+South Sudan,roll10_2mm,2.0,2019,102
+South Sudan,roll10_2mm,2.0,2020,126
+South Sudan,roll10_2mm,2.0,2021,114
+South Sudan,roll10_2mm,2.0,2022,108
+South Sudan,roll10_2mm,2.0,2023,117
+South Sudan,roll10_2mm,2.0,2024,97
+South Sudan,pct_10,0.025126056745648384,2000,8
+South Sudan,pct_10,0.025126056745648384,2001,5
+South Sudan,pct_10,0.025126056745648384,2002,16
+South Sudan,pct_10,0.025126056745648384,2003,9
+South Sudan,pct_10,0.025126056745648384,2004,3
+South Sudan,pct_10,0.025126056745648384,2005,12
+South Sudan,pct_10,0.025126056745648384,2006,4
+South Sudan,pct_10,0.025126056745648384,2007,10
+South Sudan,pct_10,0.025126056745648384,2008,8
+South Sudan,pct_10,0.025126056745648384,2009,15
+South Sudan,pct_10,0.025126056745648384,2010,7
+South Sudan,pct_10,0.025126056745648384,2011,7
+South Sudan,pct_10,0.025126056745648384,2012,10
+South Sudan,pct_10,0.025126056745648384,2013,13
+South Sudan,pct_10,0.025126056745648384,2014,6
+South Sudan,pct_10,0.025126056745648384,2015,23
+South Sudan,pct_10,0.025126056745648384,2016,15
+South Sudan,pct_10,0.025126056745648384,2017,23
+South Sudan,pct_10,0.025126056745648384,2018,20
+South Sudan,pct_10,0.025126056745648384,2019,10
+South Sudan,pct_10,0.025126056745648384,2020,11
+South Sudan,pct_10,0.025126056745648384,2021,13
+South Sudan,pct_10,0.025126056745648384,2022,15
+South Sudan,pct_10,0.025126056745648384,2023,24
+South Sudan,pct_10,0.025126056745648384,2024,13
+South Sudan,pct_25,0.2830987870693207,2000,38
+South Sudan,pct_25,0.2830987870693207,2001,16
+South Sudan,pct_25,0.2830987870693207,2002,28
+South Sudan,pct_25,0.2830987870693207,2003,21
+South Sudan,pct_25,0.2830987870693207,2004,21
+South Sudan,pct_25,0.2830987870693207,2005,38
+South Sudan,pct_25,0.2830987870693207,2006,17
+South Sudan,pct_25,0.2830987870693207,2007,22
+South Sudan,pct_25,0.2830987870693207,2008,21
+South Sudan,pct_25,0.2830987870693207,2009,21
+South Sudan,pct_25,0.2830987870693207,2010,14
+South Sudan,pct_25,0.2830987870693207,2011,31
+South Sudan,pct_25,0.2830987870693207,2012,31
+South Sudan,pct_25,0.2830987870693207,2013,24
+South Sudan,pct_25,0.2830987870693207,2014,29
+South Sudan,pct_25,0.2830987870693207,2015,40
+South Sudan,pct_25,0.2830987870693207,2016,57
+South Sudan,pct_25,0.2830987870693207,2017,30
+South Sudan,pct_25,0.2830987870693207,2018,45
+South Sudan,pct_25,0.2830987870693207,2019,22
+South Sudan,pct_25,0.2830987870693207,2020,23
+South Sudan,pct_25,0.2830987870693207,2021,46
+South Sudan,pct_25,0.2830987870693207,2022,41
+South Sudan,pct_25,0.2830987870693207,2023,57
+South Sudan,pct_25,0.2830987870693207,2024,33
+South Sudan,pct_50,1.7752457857131958,2000,83
+South Sudan,pct_50,1.7752457857131958,2001,65
+South Sudan,pct_50,1.7752457857131958,2002,68
+South Sudan,pct_50,1.7752457857131958,2003,51
+South Sudan,pct_50,1.7752457857131958,2004,93
+South Sudan,pct_50,1.7752457857131958,2005,69
+South Sudan,pct_50,1.7752457857131958,2006,68
+South Sudan,pct_50,1.7752457857131958,2007,74
+South Sudan,pct_50,1.7752457857131958,2008,51
+South Sudan,pct_50,1.7752457857131958,2009,58
+South Sudan,pct_50,1.7752457857131958,2010,54
+South Sudan,pct_50,1.7752457857131958,2011,79
+South Sudan,pct_50,1.7752457857131958,2012,102
+South Sudan,pct_50,1.7752457857131958,2013,72
+South Sudan,pct_50,1.7752457857131958,2014,68
+South Sudan,pct_50,1.7752457857131958,2015,71
+South Sudan,pct_50,1.7752457857131958,2016,75
+South Sudan,pct_50,1.7752457857131958,2017,74
+South Sudan,pct_50,1.7752457857131958,2018,54
+South Sudan,pct_50,1.7752457857131958,2019,98
+South Sudan,pct_50,1.7752457857131958,2020,71
+South Sudan,pct_50,1.7752457857131958,2021,74
+South Sudan,pct_50,1.7752457857131958,2022,82
+South Sudan,pct_50,1.7752457857131958,2023,71
+South Sudan,pct_50,1.7752457857131958,2024,92
+Uganda,abs_0.5mm,0.5,2000,6
+Uganda,abs_0.5mm,0.5,2001,3
+Uganda,abs_0.5mm,0.5,2002,5
+Uganda,abs_0.5mm,0.5,2003,9
+Uganda,abs_0.5mm,0.5,2004,5
+Uganda,abs_0.5mm,0.5,2005,15
+Uganda,abs_0.5mm,0.5,2006,6
+Uganda,abs_0.5mm,0.5,2007,5
+Uganda,abs_0.5mm,0.5,2008,3
+Uganda,abs_0.5mm,0.5,2009,6
+Uganda,abs_0.5mm,0.5,2010,6
+Uganda,abs_0.5mm,0.5,2011,5
+Uganda,abs_0.5mm,0.5,2012,11
+Uganda,abs_0.5mm,0.5,2013,7
+Uganda,abs_0.5mm,0.5,2014,5
+Uganda,abs_0.5mm,0.5,2015,9
+Uganda,abs_0.5mm,0.5,2016,8
+Uganda,abs_0.5mm,0.5,2017,6
+Uganda,abs_0.5mm,0.5,2018,6
+Uganda,abs_0.5mm,0.5,2019,5
+Uganda,abs_0.5mm,0.5,2020,5
+Uganda,abs_0.5mm,0.5,2021,4
+Uganda,abs_0.5mm,0.5,2022,9
+Uganda,abs_0.5mm,0.5,2023,5
+Uganda,abs_0.5mm,0.5,2024,4
+Uganda,abs_1.0mm,1.0,2000,8
+Uganda,abs_1.0mm,1.0,2001,7
+Uganda,abs_1.0mm,1.0,2002,8
+Uganda,abs_1.0mm,1.0,2003,9
+Uganda,abs_1.0mm,1.0,2004,13
+Uganda,abs_1.0mm,1.0,2005,16
+Uganda,abs_1.0mm,1.0,2006,7
+Uganda,abs_1.0mm,1.0,2007,9
+Uganda,abs_1.0mm,1.0,2008,6
+Uganda,abs_1.0mm,1.0,2009,8
+Uganda,abs_1.0mm,1.0,2010,7
+Uganda,abs_1.0mm,1.0,2011,5
+Uganda,abs_1.0mm,1.0,2012,22
+Uganda,abs_1.0mm,1.0,2013,9
+Uganda,abs_1.0mm,1.0,2014,9
+Uganda,abs_1.0mm,1.0,2015,20
+Uganda,abs_1.0mm,1.0,2016,9
+Uganda,abs_1.0mm,1.0,2017,23
+Uganda,abs_1.0mm,1.0,2018,12
+Uganda,abs_1.0mm,1.0,2019,10
+Uganda,abs_1.0mm,1.0,2020,6
+Uganda,abs_1.0mm,1.0,2021,6
+Uganda,abs_1.0mm,1.0,2022,10
+Uganda,abs_1.0mm,1.0,2023,12
+Uganda,abs_1.0mm,1.0,2024,10
+Uganda,abs_2.0mm,2.0,2000,15
+Uganda,abs_2.0mm,2.0,2001,10
+Uganda,abs_2.0mm,2.0,2002,17
+Uganda,abs_2.0mm,2.0,2003,12
+Uganda,abs_2.0mm,2.0,2004,13
+Uganda,abs_2.0mm,2.0,2005,16
+Uganda,abs_2.0mm,2.0,2006,10
+Uganda,abs_2.0mm,2.0,2007,9
+Uganda,abs_2.0mm,2.0,2008,12
+Uganda,abs_2.0mm,2.0,2009,9
+Uganda,abs_2.0mm,2.0,2010,9
+Uganda,abs_2.0mm,2.0,2011,14
+Uganda,abs_2.0mm,2.0,2012,42
+Uganda,abs_2.0mm,2.0,2013,14
+Uganda,abs_2.0mm,2.0,2014,11
+Uganda,abs_2.0mm,2.0,2015,21
+Uganda,abs_2.0mm,2.0,2016,25
+Uganda,abs_2.0mm,2.0,2017,25
+Uganda,abs_2.0mm,2.0,2018,22
+Uganda,abs_2.0mm,2.0,2019,16
+Uganda,abs_2.0mm,2.0,2020,7
+Uganda,abs_2.0mm,2.0,2021,14
+Uganda,abs_2.0mm,2.0,2022,20
+Uganda,abs_2.0mm,2.0,2023,25
+Uganda,abs_2.0mm,2.0,2024,18
+Uganda,abs_5.0mm,5.0,2000,39
+Uganda,abs_5.0mm,5.0,2001,34
+Uganda,abs_5.0mm,5.0,2002,36
+Uganda,abs_5.0mm,5.0,2003,35
+Uganda,abs_5.0mm,5.0,2004,30
+Uganda,abs_5.0mm,5.0,2005,49
+Uganda,abs_5.0mm,5.0,2006,15
+Uganda,abs_5.0mm,5.0,2007,21
+Uganda,abs_5.0mm,5.0,2008,25
+Uganda,abs_5.0mm,5.0,2009,30
+Uganda,abs_5.0mm,5.0,2010,23
+Uganda,abs_5.0mm,5.0,2011,31
+Uganda,abs_5.0mm,5.0,2012,48
+Uganda,abs_5.0mm,5.0,2013,34
+Uganda,abs_5.0mm,5.0,2014,69
+Uganda,abs_5.0mm,5.0,2015,45
+Uganda,abs_5.0mm,5.0,2016,35
+Uganda,abs_5.0mm,5.0,2017,31
+Uganda,abs_5.0mm,5.0,2018,50
+Uganda,abs_5.0mm,5.0,2019,35
+Uganda,abs_5.0mm,5.0,2020,31
+Uganda,abs_5.0mm,5.0,2021,25
+Uganda,abs_5.0mm,5.0,2022,44
+Uganda,abs_5.0mm,5.0,2023,57
+Uganda,abs_5.0mm,5.0,2024,28
+Uganda,roll5_1mm,1.0,2000,7
+Uganda,roll5_1mm,1.0,2001,6
+Uganda,roll5_1mm,1.0,2002,10
+Uganda,roll5_1mm,1.0,2003,9
+Uganda,roll5_1mm,1.0,2004,10
+Uganda,roll5_1mm,1.0,2005,12
+Uganda,roll5_1mm,1.0,2006,7
+Uganda,roll5_1mm,1.0,2007,6
+Uganda,roll5_1mm,1.0,2008,8
+Uganda,roll5_1mm,1.0,2009,5
+Uganda,roll5_1mm,1.0,2010,6
+Uganda,roll5_1mm,1.0,2011,7
+Uganda,roll5_1mm,1.0,2012,40
+Uganda,roll5_1mm,1.0,2013,8
+Uganda,roll5_1mm,1.0,2014,8
+Uganda,roll5_1mm,1.0,2015,22
+Uganda,roll5_1mm,1.0,2016,23
+Uganda,roll5_1mm,1.0,2017,21
+Uganda,roll5_1mm,1.0,2018,19
+Uganda,roll5_1mm,1.0,2019,10
+Uganda,roll5_1mm,1.0,2020,4
+Uganda,roll5_1mm,1.0,2021,8
+Uganda,roll5_1mm,1.0,2022,9
+Uganda,roll5_1mm,1.0,2023,13
+Uganda,roll5_1mm,1.0,2024,14
+Uganda,roll10_1mm,1.0,2000,7
+Uganda,roll10_1mm,1.0,2001,3
+Uganda,roll10_1mm,1.0,2002,9
+Uganda,roll10_1mm,1.0,2003,7
+Uganda,roll10_1mm,1.0,2004,11
+Uganda,roll10_1mm,1.0,2005,9
+Uganda,roll10_1mm,1.0,2006,5
+Uganda,roll10_1mm,1.0,2007,4
+Uganda,roll10_1mm,1.0,2008,9
+Uganda,roll10_1mm,1.0,2009,3
+Uganda,roll10_1mm,1.0,2010,2
+Uganda,roll10_1mm,1.0,2011,5
+Uganda,roll10_1mm,1.0,2012,39
+Uganda,roll10_1mm,1.0,2013,5
+Uganda,roll10_1mm,1.0,2014,7
+Uganda,roll10_1mm,1.0,2015,21
+Uganda,roll10_1mm,1.0,2016,19
+Uganda,roll10_1mm,1.0,2017,18
+Uganda,roll10_1mm,1.0,2018,15
+Uganda,roll10_1mm,1.0,2019,13
+Uganda,roll10_1mm,1.0,2020,3
+Uganda,roll10_1mm,1.0,2021,4
+Uganda,roll10_1mm,1.0,2022,11
+Uganda,roll10_1mm,1.0,2023,17
+Uganda,roll10_1mm,1.0,2024,10
+Uganda,roll10_2mm,2.0,2000,20
+Uganda,roll10_2mm,2.0,2001,5
+Uganda,roll10_2mm,2.0,2002,24
+Uganda,roll10_2mm,2.0,2003,27
+Uganda,roll10_2mm,2.0,2004,16
+Uganda,roll10_2mm,2.0,2005,25
+Uganda,roll10_2mm,2.0,2006,20
+Uganda,roll10_2mm,2.0,2007,11
+Uganda,roll10_2mm,2.0,2008,18
+Uganda,roll10_2mm,2.0,2009,20
+Uganda,roll10_2mm,2.0,2010,6
+Uganda,roll10_2mm,2.0,2011,14
+Uganda,roll10_2mm,2.0,2012,47
+Uganda,roll10_2mm,2.0,2013,15
+Uganda,roll10_2mm,2.0,2014,17
+Uganda,roll10_2mm,2.0,2015,53
+Uganda,roll10_2mm,2.0,2016,39
+Uganda,roll10_2mm,2.0,2017,30
+Uganda,roll10_2mm,2.0,2018,45
+Uganda,roll10_2mm,2.0,2019,26
+Uganda,roll10_2mm,2.0,2020,8
+Uganda,roll10_2mm,2.0,2021,18
+Uganda,roll10_2mm,2.0,2022,22
+Uganda,roll10_2mm,2.0,2023,54
+Uganda,roll10_2mm,2.0,2024,17
+Uganda,pct_10,0.6919397115707397,2000,7
+Uganda,pct_10,0.6919397115707397,2001,6
+Uganda,pct_10,0.6919397115707397,2002,5
+Uganda,pct_10,0.6919397115707397,2003,9
+Uganda,pct_10,0.6919397115707397,2004,10
+Uganda,pct_10,0.6919397115707397,2005,16
+Uganda,pct_10,0.6919397115707397,2006,7
+Uganda,pct_10,0.6919397115707397,2007,5
+Uganda,pct_10,0.6919397115707397,2008,4
+Uganda,pct_10,0.6919397115707397,2009,7
+Uganda,pct_10,0.6919397115707397,2010,7
+Uganda,pct_10,0.6919397115707397,2011,5
+Uganda,pct_10,0.6919397115707397,2012,22
+Uganda,pct_10,0.6919397115707397,2013,8
+Uganda,pct_10,0.6919397115707397,2014,7
+Uganda,pct_10,0.6919397115707397,2015,19
+Uganda,pct_10,0.6919397115707397,2016,8
+Uganda,pct_10,0.6919397115707397,2017,17
+Uganda,pct_10,0.6919397115707397,2018,7
+Uganda,pct_10,0.6919397115707397,2019,5
+Uganda,pct_10,0.6919397115707397,2020,5
+Uganda,pct_10,0.6919397115707397,2021,6
+Uganda,pct_10,0.6919397115707397,2022,9
+Uganda,pct_10,0.6919397115707397,2023,8
+Uganda,pct_10,0.6919397115707397,2024,5
+Uganda,pct_25,1.7393664121627808,2000,8
+Uganda,pct_25,1.7393664121627808,2001,10
+Uganda,pct_25,1.7393664121627808,2002,10
+Uganda,pct_25,1.7393664121627808,2003,12
+Uganda,pct_25,1.7393664121627808,2004,13
+Uganda,pct_25,1.7393664121627808,2005,16
+Uganda,pct_25,1.7393664121627808,2006,10
+Uganda,pct_25,1.7393664121627808,2007,9
+Uganda,pct_25,1.7393664121627808,2008,12
+Uganda,pct_25,1.7393664121627808,2009,9
+Uganda,pct_25,1.7393664121627808,2010,9
+Uganda,pct_25,1.7393664121627808,2011,11
+Uganda,pct_25,1.7393664121627808,2012,29
+Uganda,pct_25,1.7393664121627808,2013,14
+Uganda,pct_25,1.7393664121627808,2014,11
+Uganda,pct_25,1.7393664121627808,2015,21
+Uganda,pct_25,1.7393664121627808,2016,25
+Uganda,pct_25,1.7393664121627808,2017,25
+Uganda,pct_25,1.7393664121627808,2018,22
+Uganda,pct_25,1.7393664121627808,2019,16
+Uganda,pct_25,1.7393664121627808,2020,7
+Uganda,pct_25,1.7393664121627808,2021,11
+Uganda,pct_25,1.7393664121627808,2022,13
+Uganda,pct_25,1.7393664121627808,2023,25
+Uganda,pct_25,1.7393664121627808,2024,18
+Uganda,pct_50,3.817713737487793,2000,21
+Uganda,pct_50,3.817713737487793,2001,16
+Uganda,pct_50,3.817713737487793,2002,29
+Uganda,pct_50,3.817713737487793,2003,35
+Uganda,pct_50,3.817713737487793,2004,22
+Uganda,pct_50,3.817713737487793,2005,26
+Uganda,pct_50,3.817713737487793,2006,14
+Uganda,pct_50,3.817713737487793,2007,19
+Uganda,pct_50,3.817713737487793,2008,22
+Uganda,pct_50,3.817713737487793,2009,20
+Uganda,pct_50,3.817713737487793,2010,11
+Uganda,pct_50,3.817713737487793,2011,20
+Uganda,pct_50,3.817713737487793,2012,48
+Uganda,pct_50,3.817713737487793,2013,21
+Uganda,pct_50,3.817713737487793,2014,29
+Uganda,pct_50,3.817713737487793,2015,45
+Uganda,pct_50,3.817713737487793,2016,35
+Uganda,pct_50,3.817713737487793,2017,29
+Uganda,pct_50,3.817713737487793,2018,24
+Uganda,pct_50,3.817713737487793,2019,31
+Uganda,pct_50,3.817713737487793,2020,21
+Uganda,pct_50,3.817713737487793,2021,22
+Uganda,pct_50,3.817713737487793,2022,23
+Uganda,pct_50,3.817713737487793,2023,43
+Uganda,pct_50,3.817713737487793,2024,18
+NE DRC,abs_0.5mm,0.5,2000,10
+NE DRC,abs_0.5mm,0.5,2001,11
+NE DRC,abs_0.5mm,0.5,2002,15
+NE DRC,abs_0.5mm,0.5,2003,12
+NE DRC,abs_0.5mm,0.5,2004,14
+NE DRC,abs_0.5mm,0.5,2005,20
+NE DRC,abs_0.5mm,0.5,2006,10
+NE DRC,abs_0.5mm,0.5,2007,36
+NE DRC,abs_0.5mm,0.5,2008,12
+NE DRC,abs_0.5mm,0.5,2009,5
+NE DRC,abs_0.5mm,0.5,2010,12
+NE DRC,abs_0.5mm,0.5,2011,19
+NE DRC,abs_0.5mm,0.5,2012,18
+NE DRC,abs_0.5mm,0.5,2013,18
+NE DRC,abs_0.5mm,0.5,2014,24
+NE DRC,abs_0.5mm,0.5,2015,25
+NE DRC,abs_0.5mm,0.5,2016,47
+NE DRC,abs_0.5mm,0.5,2017,23
+NE DRC,abs_0.5mm,0.5,2018,15
+NE DRC,abs_0.5mm,0.5,2019,10
+NE DRC,abs_0.5mm,0.5,2020,11
+NE DRC,abs_0.5mm,0.5,2021,20
+NE DRC,abs_0.5mm,0.5,2022,16
+NE DRC,abs_0.5mm,0.5,2023,24
+NE DRC,abs_0.5mm,0.5,2024,45
+NE DRC,abs_1.0mm,1.0,2000,11
+NE DRC,abs_1.0mm,1.0,2001,13
+NE DRC,abs_1.0mm,1.0,2002,16
+NE DRC,abs_1.0mm,1.0,2003,20
+NE DRC,abs_1.0mm,1.0,2004,18
+NE DRC,abs_1.0mm,1.0,2005,22
+NE DRC,abs_1.0mm,1.0,2006,11
+NE DRC,abs_1.0mm,1.0,2007,36
+NE DRC,abs_1.0mm,1.0,2008,17
+NE DRC,abs_1.0mm,1.0,2009,15
+NE DRC,abs_1.0mm,1.0,2010,12
+NE DRC,abs_1.0mm,1.0,2011,21
+NE DRC,abs_1.0mm,1.0,2012,31
+NE DRC,abs_1.0mm,1.0,2013,18
+NE DRC,abs_1.0mm,1.0,2014,24
+NE DRC,abs_1.0mm,1.0,2015,28
+NE DRC,abs_1.0mm,1.0,2016,47
+NE DRC,abs_1.0mm,1.0,2017,27
+NE DRC,abs_1.0mm,1.0,2018,23
+NE DRC,abs_1.0mm,1.0,2019,15
+NE DRC,abs_1.0mm,1.0,2020,26
+NE DRC,abs_1.0mm,1.0,2021,22
+NE DRC,abs_1.0mm,1.0,2022,43
+NE DRC,abs_1.0mm,1.0,2023,56
+NE DRC,abs_1.0mm,1.0,2024,47
+NE DRC,abs_2.0mm,2.0,2000,17
+NE DRC,abs_2.0mm,2.0,2001,20
+NE DRC,abs_2.0mm,2.0,2002,33
+NE DRC,abs_2.0mm,2.0,2003,25
+NE DRC,abs_2.0mm,2.0,2004,20
+NE DRC,abs_2.0mm,2.0,2005,22
+NE DRC,abs_2.0mm,2.0,2006,24
+NE DRC,abs_2.0mm,2.0,2007,52
+NE DRC,abs_2.0mm,2.0,2008,18
+NE DRC,abs_2.0mm,2.0,2009,17
+NE DRC,abs_2.0mm,2.0,2010,16
+NE DRC,abs_2.0mm,2.0,2011,31
+NE DRC,abs_2.0mm,2.0,2012,32
+NE DRC,abs_2.0mm,2.0,2013,18
+NE DRC,abs_2.0mm,2.0,2014,26
+NE DRC,abs_2.0mm,2.0,2015,40
+NE DRC,abs_2.0mm,2.0,2016,51
+NE DRC,abs_2.0mm,2.0,2017,30
+NE DRC,abs_2.0mm,2.0,2018,40
+NE DRC,abs_2.0mm,2.0,2019,18
+NE DRC,abs_2.0mm,2.0,2020,33
+NE DRC,abs_2.0mm,2.0,2021,33
+NE DRC,abs_2.0mm,2.0,2022,44
+NE DRC,abs_2.0mm,2.0,2023,57
+NE DRC,abs_2.0mm,2.0,2024,47
+NE DRC,abs_5.0mm,5.0,2000,76
+NE DRC,abs_5.0mm,5.0,2001,43
+NE DRC,abs_5.0mm,5.0,2002,57
+NE DRC,abs_5.0mm,5.0,2003,50
+NE DRC,abs_5.0mm,5.0,2004,45
+NE DRC,abs_5.0mm,5.0,2005,38
+NE DRC,abs_5.0mm,5.0,2006,39
+NE DRC,abs_5.0mm,5.0,2007,52
+NE DRC,abs_5.0mm,5.0,2008,48
+NE DRC,abs_5.0mm,5.0,2009,25
+NE DRC,abs_5.0mm,5.0,2010,30
+NE DRC,abs_5.0mm,5.0,2011,50
+NE DRC,abs_5.0mm,5.0,2012,46
+NE DRC,abs_5.0mm,5.0,2013,30
+NE DRC,abs_5.0mm,5.0,2014,36
+NE DRC,abs_5.0mm,5.0,2015,51
+NE DRC,abs_5.0mm,5.0,2016,63
+NE DRC,abs_5.0mm,5.0,2017,61
+NE DRC,abs_5.0mm,5.0,2018,48
+NE DRC,abs_5.0mm,5.0,2019,63
+NE DRC,abs_5.0mm,5.0,2020,48
+NE DRC,abs_5.0mm,5.0,2021,47
+NE DRC,abs_5.0mm,5.0,2022,69
+NE DRC,abs_5.0mm,5.0,2023,71
+NE DRC,abs_5.0mm,5.0,2024,90
+NE DRC,roll5_1mm,1.0,2000,24
+NE DRC,roll5_1mm,1.0,2001,17
+NE DRC,roll5_1mm,1.0,2002,31
+NE DRC,roll5_1mm,1.0,2003,23
+NE DRC,roll5_1mm,1.0,2004,17
+NE DRC,roll5_1mm,1.0,2005,38
+NE DRC,roll5_1mm,1.0,2006,20
+NE DRC,roll5_1mm,1.0,2007,52
+NE DRC,roll5_1mm,1.0,2008,16
+NE DRC,roll5_1mm,1.0,2009,15
+NE DRC,roll5_1mm,1.0,2010,14
+NE DRC,roll5_1mm,1.0,2011,28
+NE DRC,roll5_1mm,1.0,2012,32
+NE DRC,roll5_1mm,1.0,2013,18
+NE DRC,roll5_1mm,1.0,2014,26
+NE DRC,roll5_1mm,1.0,2015,40
+NE DRC,roll5_1mm,1.0,2016,53
+NE DRC,roll5_1mm,1.0,2017,26
+NE DRC,roll5_1mm,1.0,2018,44
+NE DRC,roll5_1mm,1.0,2019,15
+NE DRC,roll5_1mm,1.0,2020,34
+NE DRC,roll5_1mm,1.0,2021,47
+NE DRC,roll5_1mm,1.0,2022,44
+NE DRC,roll5_1mm,1.0,2023,57
+NE DRC,roll5_1mm,1.0,2024,47
+NE DRC,roll10_1mm,1.0,2000,24
+NE DRC,roll10_1mm,1.0,2001,17
+NE DRC,roll10_1mm,1.0,2002,33
+NE DRC,roll10_1mm,1.0,2003,26
+NE DRC,roll10_1mm,1.0,2004,14
+NE DRC,roll10_1mm,1.0,2005,39
+NE DRC,roll10_1mm,1.0,2006,16
+NE DRC,roll10_1mm,1.0,2007,53
+NE DRC,roll10_1mm,1.0,2008,13
+NE DRC,roll10_1mm,1.0,2009,19
+NE DRC,roll10_1mm,1.0,2010,14
+NE DRC,roll10_1mm,1.0,2011,33
+NE DRC,roll10_1mm,1.0,2012,38
+NE DRC,roll10_1mm,1.0,2013,24
+NE DRC,roll10_1mm,1.0,2014,28
+NE DRC,roll10_1mm,1.0,2015,51
+NE DRC,roll10_1mm,1.0,2016,60
+NE DRC,roll10_1mm,1.0,2017,26
+NE DRC,roll10_1mm,1.0,2018,46
+NE DRC,roll10_1mm,1.0,2019,17
+NE DRC,roll10_1mm,1.0,2020,49
+NE DRC,roll10_1mm,1.0,2021,72
+NE DRC,roll10_1mm,1.0,2022,44
+NE DRC,roll10_1mm,1.0,2023,59
+NE DRC,roll10_1mm,1.0,2024,85
+NE DRC,roll10_2mm,2.0,2000,47
+NE DRC,roll10_2mm,2.0,2001,44
+NE DRC,roll10_2mm,2.0,2002,59
+NE DRC,roll10_2mm,2.0,2003,51
+NE DRC,roll10_2mm,2.0,2004,32
+NE DRC,roll10_2mm,2.0,2005,58
+NE DRC,roll10_2mm,2.0,2006,35
+NE DRC,roll10_2mm,2.0,2007,55
+NE DRC,roll10_2mm,2.0,2008,20
+NE DRC,roll10_2mm,2.0,2009,24
+NE DRC,roll10_2mm,2.0,2010,20
+NE DRC,roll10_2mm,2.0,2011,39
+NE DRC,roll10_2mm,2.0,2012,45
+NE DRC,roll10_2mm,2.0,2013,29
+NE DRC,roll10_2mm,2.0,2014,31
+NE DRC,roll10_2mm,2.0,2015,56
+NE DRC,roll10_2mm,2.0,2016,63
+NE DRC,roll10_2mm,2.0,2017,64
+NE DRC,roll10_2mm,2.0,2018,48
+NE DRC,roll10_2mm,2.0,2019,59
+NE DRC,roll10_2mm,2.0,2020,70
+NE DRC,roll10_2mm,2.0,2021,74
+NE DRC,roll10_2mm,2.0,2022,69
+NE DRC,roll10_2mm,2.0,2023,71
+NE DRC,roll10_2mm,2.0,2024,91
+NE DRC,pct_10,0.06711035221815109,2000,7
+NE DRC,pct_10,0.06711035221815109,2001,9
+NE DRC,pct_10,0.06711035221815109,2002,13
+NE DRC,pct_10,0.06711035221815109,2003,12
+NE DRC,pct_10,0.06711035221815109,2004,7
+NE DRC,pct_10,0.06711035221815109,2005,19
+NE DRC,pct_10,0.06711035221815109,2006,8
+NE DRC,pct_10,0.06711035221815109,2007,18
+NE DRC,pct_10,0.06711035221815109,2008,11
+NE DRC,pct_10,0.06711035221815109,2009,3
+NE DRC,pct_10,0.06711035221815109,2010,5
+NE DRC,pct_10,0.06711035221815109,2011,6
+NE DRC,pct_10,0.06711035221815109,2012,17
+NE DRC,pct_10,0.06711035221815109,2013,12
+NE DRC,pct_10,0.06711035221815109,2014,23
+NE DRC,pct_10,0.06711035221815109,2015,20
+NE DRC,pct_10,0.06711035221815109,2016,17
+NE DRC,pct_10,0.06711035221815109,2017,16
+NE DRC,pct_10,0.06711035221815109,2018,14
+NE DRC,pct_10,0.06711035221815109,2019,5
+NE DRC,pct_10,0.06711035221815109,2020,11
+NE DRC,pct_10,0.06711035221815109,2021,14
+NE DRC,pct_10,0.06711035221815109,2022,14
+NE DRC,pct_10,0.06711035221815109,2023,19
+NE DRC,pct_10,0.06711035221815109,2024,23
+NE DRC,pct_25,0.955596387386322,2000,11
+NE DRC,pct_25,0.955596387386322,2001,13
+NE DRC,pct_25,0.955596387386322,2002,16
+NE DRC,pct_25,0.955596387386322,2003,20
+NE DRC,pct_25,0.955596387386322,2004,18
+NE DRC,pct_25,0.955596387386322,2005,22
+NE DRC,pct_25,0.955596387386322,2006,11
+NE DRC,pct_25,0.955596387386322,2007,36
+NE DRC,pct_25,0.955596387386322,2008,17
+NE DRC,pct_25,0.955596387386322,2009,15
+NE DRC,pct_25,0.955596387386322,2010,12
+NE DRC,pct_25,0.955596387386322,2011,21
+NE DRC,pct_25,0.955596387386322,2012,31
+NE DRC,pct_25,0.955596387386322,2013,18
+NE DRC,pct_25,0.955596387386322,2014,24
+NE DRC,pct_25,0.955596387386322,2015,28
+NE DRC,pct_25,0.955596387386322,2016,47
+NE DRC,pct_25,0.955596387386322,2017,27
+NE DRC,pct_25,0.955596387386322,2018,23
+NE DRC,pct_25,0.955596387386322,2019,15
+NE DRC,pct_25,0.955596387386322,2020,26
+NE DRC,pct_25,0.955596387386322,2021,22
+NE DRC,pct_25,0.955596387386322,2022,43
+NE DRC,pct_25,0.955596387386322,2023,56
+NE DRC,pct_25,0.955596387386322,2024,47
+NE DRC,pct_50,3.3010854721069336,2000,24
+NE DRC,pct_50,3.3010854721069336,2001,42
+NE DRC,pct_50,3.3010854721069336,2002,42
+NE DRC,pct_50,3.3010854721069336,2003,29
+NE DRC,pct_50,3.3010854721069336,2004,22
+NE DRC,pct_50,3.3010854721069336,2005,38
+NE DRC,pct_50,3.3010854721069336,2006,39
+NE DRC,pct_50,3.3010854721069336,2007,52
+NE DRC,pct_50,3.3010854721069336,2008,25
+NE DRC,pct_50,3.3010854721069336,2009,24
+NE DRC,pct_50,3.3010854721069336,2010,16
+NE DRC,pct_50,3.3010854721069336,2011,41
+NE DRC,pct_50,3.3010854721069336,2012,32
+NE DRC,pct_50,3.3010854721069336,2013,24
+NE DRC,pct_50,3.3010854721069336,2014,36
+NE DRC,pct_50,3.3010854721069336,2015,40
+NE DRC,pct_50,3.3010854721069336,2016,60
+NE DRC,pct_50,3.3010854721069336,2017,30
+NE DRC,pct_50,3.3010854721069336,2018,47
+NE DRC,pct_50,3.3010854721069336,2019,28
+NE DRC,pct_50,3.3010854721069336,2020,48
+NE DRC,pct_50,3.3010854721069336,2021,35
+NE DRC,pct_50,3.3010854721069336,2022,53
+NE DRC,pct_50,3.3010854721069336,2023,57
+NE DRC,pct_50,3.3010854721069336,2024,47
+Ethiopia,abs_0.5mm,0.5,2000,39
+Ethiopia,abs_0.5mm,0.5,2001,17
+Ethiopia,abs_0.5mm,0.5,2002,31
+Ethiopia,abs_0.5mm,0.5,2003,25
+Ethiopia,abs_0.5mm,0.5,2004,13
+Ethiopia,abs_0.5mm,0.5,2005,39
+Ethiopia,abs_0.5mm,0.5,2006,13
+Ethiopia,abs_0.5mm,0.5,2007,22
+Ethiopia,abs_0.5mm,0.5,2008,29
+Ethiopia,abs_0.5mm,0.5,2009,19
+Ethiopia,abs_0.5mm,0.5,2010,14
+Ethiopia,abs_0.5mm,0.5,2011,30
+Ethiopia,abs_0.5mm,0.5,2012,36
+Ethiopia,abs_0.5mm,0.5,2013,19
+Ethiopia,abs_0.5mm,0.5,2014,47
+Ethiopia,abs_0.5mm,0.5,2015,45
+Ethiopia,abs_0.5mm,0.5,2016,28
+Ethiopia,abs_0.5mm,0.5,2017,32
+Ethiopia,abs_0.5mm,0.5,2018,47
+Ethiopia,abs_0.5mm,0.5,2019,46
+Ethiopia,abs_0.5mm,0.5,2020,17
+Ethiopia,abs_0.5mm,0.5,2021,48
+Ethiopia,abs_0.5mm,0.5,2022,35
+Ethiopia,abs_0.5mm,0.5,2023,45
+Ethiopia,abs_0.5mm,0.5,2024,32
+Ethiopia,abs_1.0mm,1.0,2000,67
+Ethiopia,abs_1.0mm,1.0,2001,21
+Ethiopia,abs_1.0mm,1.0,2002,44
+Ethiopia,abs_1.0mm,1.0,2003,25
+Ethiopia,abs_1.0mm,1.0,2004,19
+Ethiopia,abs_1.0mm,1.0,2005,40
+Ethiopia,abs_1.0mm,1.0,2006,16
+Ethiopia,abs_1.0mm,1.0,2007,36
+Ethiopia,abs_1.0mm,1.0,2008,51
+Ethiopia,abs_1.0mm,1.0,2009,20
+Ethiopia,abs_1.0mm,1.0,2010,19
+Ethiopia,abs_1.0mm,1.0,2011,62
+Ethiopia,abs_1.0mm,1.0,2012,49
+Ethiopia,abs_1.0mm,1.0,2013,56
+Ethiopia,abs_1.0mm,1.0,2014,51
+Ethiopia,abs_1.0mm,1.0,2015,77
+Ethiopia,abs_1.0mm,1.0,2016,57
+Ethiopia,abs_1.0mm,1.0,2017,44
+Ethiopia,abs_1.0mm,1.0,2018,49
+Ethiopia,abs_1.0mm,1.0,2019,51
+Ethiopia,abs_1.0mm,1.0,2020,31
+Ethiopia,abs_1.0mm,1.0,2021,50
+Ethiopia,abs_1.0mm,1.0,2022,40
+Ethiopia,abs_1.0mm,1.0,2023,66
+Ethiopia,abs_1.0mm,1.0,2024,33
+Ethiopia,abs_2.0mm,2.0,2000,85
+Ethiopia,abs_2.0mm,2.0,2001,40
+Ethiopia,abs_2.0mm,2.0,2002,47
+Ethiopia,abs_2.0mm,2.0,2003,36
+Ethiopia,abs_2.0mm,2.0,2004,45
+Ethiopia,abs_2.0mm,2.0,2005,70
+Ethiopia,abs_2.0mm,2.0,2006,50
+Ethiopia,abs_2.0mm,2.0,2007,38
+Ethiopia,abs_2.0mm,2.0,2008,64
+Ethiopia,abs_2.0mm,2.0,2009,30
+Ethiopia,abs_2.0mm,2.0,2010,31
+Ethiopia,abs_2.0mm,2.0,2011,72
+Ethiopia,abs_2.0mm,2.0,2012,106
+Ethiopia,abs_2.0mm,2.0,2013,57
+Ethiopia,abs_2.0mm,2.0,2014,63
+Ethiopia,abs_2.0mm,2.0,2015,77
+Ethiopia,abs_2.0mm,2.0,2016,94
+Ethiopia,abs_2.0mm,2.0,2017,44
+Ethiopia,abs_2.0mm,2.0,2018,49
+Ethiopia,abs_2.0mm,2.0,2019,51
+Ethiopia,abs_2.0mm,2.0,2020,44
+Ethiopia,abs_2.0mm,2.0,2021,52
+Ethiopia,abs_2.0mm,2.0,2022,49
+Ethiopia,abs_2.0mm,2.0,2023,69
+Ethiopia,abs_2.0mm,2.0,2024,60
+Ethiopia,abs_5.0mm,5.0,2000,104
+Ethiopia,abs_5.0mm,5.0,2001,94
+Ethiopia,abs_5.0mm,5.0,2002,109
+Ethiopia,abs_5.0mm,5.0,2003,102
+Ethiopia,abs_5.0mm,5.0,2004,94
+Ethiopia,abs_5.0mm,5.0,2005,74
+Ethiopia,abs_5.0mm,5.0,2006,112
+Ethiopia,abs_5.0mm,5.0,2007,100
+Ethiopia,abs_5.0mm,5.0,2008,99
+Ethiopia,abs_5.0mm,5.0,2009,96
+Ethiopia,abs_5.0mm,5.0,2010,64
+Ethiopia,abs_5.0mm,5.0,2011,73
+Ethiopia,abs_5.0mm,5.0,2012,108
+Ethiopia,abs_5.0mm,5.0,2013,120
+Ethiopia,abs_5.0mm,5.0,2014,69
+Ethiopia,abs_5.0mm,5.0,2015,88
+Ethiopia,abs_5.0mm,5.0,2016,103
+Ethiopia,abs_5.0mm,5.0,2017,114
+Ethiopia,abs_5.0mm,5.0,2018,87
+Ethiopia,abs_5.0mm,5.0,2019,101
+Ethiopia,abs_5.0mm,5.0,2020,102
+Ethiopia,abs_5.0mm,5.0,2021,114
+Ethiopia,abs_5.0mm,5.0,2022,100
+Ethiopia,abs_5.0mm,5.0,2023,84
+Ethiopia,abs_5.0mm,5.0,2024,92
+Ethiopia,roll5_1mm,1.0,2000,85
+Ethiopia,roll5_1mm,1.0,2001,40
+Ethiopia,roll5_1mm,1.0,2002,43
+Ethiopia,roll5_1mm,1.0,2003,32
+Ethiopia,roll5_1mm,1.0,2004,26
+Ethiopia,roll5_1mm,1.0,2005,71
+Ethiopia,roll5_1mm,1.0,2006,51
+Ethiopia,roll5_1mm,1.0,2007,42
+Ethiopia,roll5_1mm,1.0,2008,51
+Ethiopia,roll5_1mm,1.0,2009,27
+Ethiopia,roll5_1mm,1.0,2010,16
+Ethiopia,roll5_1mm,1.0,2011,67
+Ethiopia,roll5_1mm,1.0,2012,83
+Ethiopia,roll5_1mm,1.0,2013,54
+Ethiopia,roll5_1mm,1.0,2014,63
+Ethiopia,roll5_1mm,1.0,2015,78
+Ethiopia,roll5_1mm,1.0,2016,77
+Ethiopia,roll5_1mm,1.0,2017,46
+Ethiopia,roll5_1mm,1.0,2018,50
+Ethiopia,roll5_1mm,1.0,2019,52
+Ethiopia,roll5_1mm,1.0,2020,33
+Ethiopia,roll5_1mm,1.0,2021,53
+Ethiopia,roll5_1mm,1.0,2022,42
+Ethiopia,roll5_1mm,1.0,2023,69
+Ethiopia,roll5_1mm,1.0,2024,51
+Ethiopia,roll10_1mm,1.0,2000,91
+Ethiopia,roll10_1mm,1.0,2001,43
+Ethiopia,roll10_1mm,1.0,2002,42
+Ethiopia,roll10_1mm,1.0,2003,56
+Ethiopia,roll10_1mm,1.0,2004,52
+Ethiopia,roll10_1mm,1.0,2005,71
+Ethiopia,roll10_1mm,1.0,2006,71
+Ethiopia,roll10_1mm,1.0,2007,37
+Ethiopia,roll10_1mm,1.0,2008,59
+Ethiopia,roll10_1mm,1.0,2009,26
+Ethiopia,roll10_1mm,1.0,2010,38
+Ethiopia,roll10_1mm,1.0,2011,66
+Ethiopia,roll10_1mm,1.0,2012,88
+Ethiopia,roll10_1mm,1.0,2013,53
+Ethiopia,roll10_1mm,1.0,2014,65
+Ethiopia,roll10_1mm,1.0,2015,80
+Ethiopia,roll10_1mm,1.0,2016,80
+Ethiopia,roll10_1mm,1.0,2017,48
+Ethiopia,roll10_1mm,1.0,2018,54
+Ethiopia,roll10_1mm,1.0,2019,89
+Ethiopia,roll10_1mm,1.0,2020,35
+Ethiopia,roll10_1mm,1.0,2021,77
+Ethiopia,roll10_1mm,1.0,2022,80
+Ethiopia,roll10_1mm,1.0,2023,70
+Ethiopia,roll10_1mm,1.0,2024,55
+Ethiopia,roll10_2mm,2.0,2000,103
+Ethiopia,roll10_2mm,2.0,2001,79
+Ethiopia,roll10_2mm,2.0,2002,69
+Ethiopia,roll10_2mm,2.0,2003,60
+Ethiopia,roll10_2mm,2.0,2004,95
+Ethiopia,roll10_2mm,2.0,2005,74
+Ethiopia,roll10_2mm,2.0,2006,76
+Ethiopia,roll10_2mm,2.0,2007,101
+Ethiopia,roll10_2mm,2.0,2008,90
+Ethiopia,roll10_2mm,2.0,2009,95
+Ethiopia,roll10_2mm,2.0,2010,58
+Ethiopia,roll10_2mm,2.0,2011,74
+Ethiopia,roll10_2mm,2.0,2012,108
+Ethiopia,roll10_2mm,2.0,2013,112
+Ethiopia,roll10_2mm,2.0,2014,70
+Ethiopia,roll10_2mm,2.0,2015,87
+Ethiopia,roll10_2mm,2.0,2016,103
+Ethiopia,roll10_2mm,2.0,2017,108
+Ethiopia,roll10_2mm,2.0,2018,87
+Ethiopia,roll10_2mm,2.0,2019,102
+Ethiopia,roll10_2mm,2.0,2020,103
+Ethiopia,roll10_2mm,2.0,2021,114
+Ethiopia,roll10_2mm,2.0,2022,104
+Ethiopia,roll10_2mm,2.0,2023,74
+Ethiopia,roll10_2mm,2.0,2024,94
+Ethiopia,pct_10,0.06272874772548676,2000,7
+Ethiopia,pct_10,0.06272874772548676,2001,6
+Ethiopia,pct_10,0.06272874772548676,2002,19
+Ethiopia,pct_10,0.06272874772548676,2003,9
+Ethiopia,pct_10,0.06272874772548676,2004,3
+Ethiopia,pct_10,0.06272874772548676,2005,19
+Ethiopia,pct_10,0.06272874772548676,2006,8
+Ethiopia,pct_10,0.06272874772548676,2007,13
+Ethiopia,pct_10,0.06272874772548676,2008,8
+Ethiopia,pct_10,0.06272874772548676,2009,13
+Ethiopia,pct_10,0.06272874772548676,2010,6
+Ethiopia,pct_10,0.06272874772548676,2011,12
+Ethiopia,pct_10,0.06272874772548676,2012,22
+Ethiopia,pct_10,0.06272874772548676,2013,9
+Ethiopia,pct_10,0.06272874772548676,2014,5
+Ethiopia,pct_10,0.06272874772548676,2015,17
+Ethiopia,pct_10,0.06272874772548676,2016,8
+Ethiopia,pct_10,0.06272874772548676,2017,28
+Ethiopia,pct_10,0.06272874772548676,2018,19
+Ethiopia,pct_10,0.06272874772548676,2019,15
+Ethiopia,pct_10,0.06272874772548676,2020,11
+Ethiopia,pct_10,0.06272874772548676,2021,9
+Ethiopia,pct_10,0.06272874772548676,2022,13
+Ethiopia,pct_10,0.06272874772548676,2023,24
+Ethiopia,pct_10,0.06272874772548676,2024,17
+Ethiopia,pct_25,0.4999845623970032,2000,39
+Ethiopia,pct_25,0.4999845623970032,2001,17
+Ethiopia,pct_25,0.4999845623970032,2002,31
+Ethiopia,pct_25,0.4999845623970032,2003,25
+Ethiopia,pct_25,0.4999845623970032,2004,13
+Ethiopia,pct_25,0.4999845623970032,2005,39
+Ethiopia,pct_25,0.4999845623970032,2006,13
+Ethiopia,pct_25,0.4999845623970032,2007,22
+Ethiopia,pct_25,0.4999845623970032,2008,29
+Ethiopia,pct_25,0.4999845623970032,2009,19
+Ethiopia,pct_25,0.4999845623970032,2010,14
+Ethiopia,pct_25,0.4999845623970032,2011,30
+Ethiopia,pct_25,0.4999845623970032,2012,36
+Ethiopia,pct_25,0.4999845623970032,2013,19
+Ethiopia,pct_25,0.4999845623970032,2014,47
+Ethiopia,pct_25,0.4999845623970032,2015,45
+Ethiopia,pct_25,0.4999845623970032,2016,28
+Ethiopia,pct_25,0.4999845623970032,2017,32
+Ethiopia,pct_25,0.4999845623970032,2018,47
+Ethiopia,pct_25,0.4999845623970032,2019,46
+Ethiopia,pct_25,0.4999845623970032,2020,17
+Ethiopia,pct_25,0.4999845623970032,2021,48
+Ethiopia,pct_25,0.4999845623970032,2022,35
+Ethiopia,pct_25,0.4999845623970032,2023,45
+Ethiopia,pct_25,0.4999845623970032,2024,32
+Ethiopia,pct_50,2.594783067703247,2000,85
+Ethiopia,pct_50,2.594783067703247,2001,65
+Ethiopia,pct_50,2.594783067703247,2002,47
+Ethiopia,pct_50,2.594783067703247,2003,56
+Ethiopia,pct_50,2.594783067703247,2004,94
+Ethiopia,pct_50,2.594783067703247,2005,70
+Ethiopia,pct_50,2.594783067703247,2006,68
+Ethiopia,pct_50,2.594783067703247,2007,75
+Ethiopia,pct_50,2.594783067703247,2008,69
+Ethiopia,pct_50,2.594783067703247,2009,31
+Ethiopia,pct_50,2.594783067703247,2010,55
+Ethiopia,pct_50,2.594783067703247,2011,72
+Ethiopia,pct_50,2.594783067703247,2012,106
+Ethiopia,pct_50,2.594783067703247,2013,61
+Ethiopia,pct_50,2.594783067703247,2014,69
+Ethiopia,pct_50,2.594783067703247,2015,80
+Ethiopia,pct_50,2.594783067703247,2016,94
+Ethiopia,pct_50,2.594783067703247,2017,55
+Ethiopia,pct_50,2.594783067703247,2018,77
+Ethiopia,pct_50,2.594783067703247,2019,86
+Ethiopia,pct_50,2.594783067703247,2020,44
+Ethiopia,pct_50,2.594783067703247,2021,76
+Ethiopia,pct_50,2.594783067703247,2022,82
+Ethiopia,pct_50,2.594783067703247,2023,69
+Ethiopia,pct_50,2.594783067703247,2024,60
+West Kenya,abs_0.5mm,0.5,2000,8
+West Kenya,abs_0.5mm,0.5,2001,6
+West Kenya,abs_0.5mm,0.5,2002,7
+West Kenya,abs_0.5mm,0.5,2003,8
+West Kenya,abs_0.5mm,0.5,2004,3
+West Kenya,abs_0.5mm,0.5,2005,15
+West Kenya,abs_0.5mm,0.5,2006,8
+West Kenya,abs_0.5mm,0.5,2007,4
+West Kenya,abs_0.5mm,0.5,2008,3
+West Kenya,abs_0.5mm,0.5,2009,6
+West Kenya,abs_0.5mm,0.5,2010,8
+West Kenya,abs_0.5mm,0.5,2011,7
+West Kenya,abs_0.5mm,0.5,2012,22
+West Kenya,abs_0.5mm,0.5,2013,8
+West Kenya,abs_0.5mm,0.5,2014,5
+West Kenya,abs_0.5mm,0.5,2015,10
+West Kenya,abs_0.5mm,0.5,2016,8
+West Kenya,abs_0.5mm,0.5,2017,11
+West Kenya,abs_0.5mm,0.5,2018,4
+West Kenya,abs_0.5mm,0.5,2019,6
+West Kenya,abs_0.5mm,0.5,2020,3
+West Kenya,abs_0.5mm,0.5,2021,4
+West Kenya,abs_0.5mm,0.5,2022,5
+West Kenya,abs_0.5mm,0.5,2023,6
+West Kenya,abs_0.5mm,0.5,2024,7
+West Kenya,abs_1.0mm,1.0,2000,8
+West Kenya,abs_1.0mm,1.0,2001,7
+West Kenya,abs_1.0mm,1.0,2002,9
+West Kenya,abs_1.0mm,1.0,2003,10
+West Kenya,abs_1.0mm,1.0,2004,8
+West Kenya,abs_1.0mm,1.0,2005,15
+West Kenya,abs_1.0mm,1.0,2006,11
+West Kenya,abs_1.0mm,1.0,2007,7
+West Kenya,abs_1.0mm,1.0,2008,7
+West Kenya,abs_1.0mm,1.0,2009,6
+West Kenya,abs_1.0mm,1.0,2010,9
+West Kenya,abs_1.0mm,1.0,2011,11
+West Kenya,abs_1.0mm,1.0,2012,23
+West Kenya,abs_1.0mm,1.0,2013,12
+West Kenya,abs_1.0mm,1.0,2014,6
+West Kenya,abs_1.0mm,1.0,2015,17
+West Kenya,abs_1.0mm,1.0,2016,11
+West Kenya,abs_1.0mm,1.0,2017,12
+West Kenya,abs_1.0mm,1.0,2018,8
+West Kenya,abs_1.0mm,1.0,2019,10
+West Kenya,abs_1.0mm,1.0,2020,5
+West Kenya,abs_1.0mm,1.0,2021,8
+West Kenya,abs_1.0mm,1.0,2022,11
+West Kenya,abs_1.0mm,1.0,2023,8
+West Kenya,abs_1.0mm,1.0,2024,10
+West Kenya,abs_2.0mm,2.0,2000,15
+West Kenya,abs_2.0mm,2.0,2001,9
+West Kenya,abs_2.0mm,2.0,2002,14
+West Kenya,abs_2.0mm,2.0,2003,10
+West Kenya,abs_2.0mm,2.0,2004,11
+West Kenya,abs_2.0mm,2.0,2005,16
+West Kenya,abs_2.0mm,2.0,2006,11
+West Kenya,abs_2.0mm,2.0,2007,9
+West Kenya,abs_2.0mm,2.0,2008,8
+West Kenya,abs_2.0mm,2.0,2009,10
+West Kenya,abs_2.0mm,2.0,2010,10
+West Kenya,abs_2.0mm,2.0,2011,11
+West Kenya,abs_2.0mm,2.0,2012,28
+West Kenya,abs_2.0mm,2.0,2013,12
+West Kenya,abs_2.0mm,2.0,2014,10
+West Kenya,abs_2.0mm,2.0,2015,24
+West Kenya,abs_2.0mm,2.0,2016,14
+West Kenya,abs_2.0mm,2.0,2017,25
+West Kenya,abs_2.0mm,2.0,2018,23
+West Kenya,abs_2.0mm,2.0,2019,16
+West Kenya,abs_2.0mm,2.0,2020,6
+West Kenya,abs_2.0mm,2.0,2021,11
+West Kenya,abs_2.0mm,2.0,2022,11
+West Kenya,abs_2.0mm,2.0,2023,33
+West Kenya,abs_2.0mm,2.0,2024,11
+West Kenya,abs_5.0mm,5.0,2000,21
+West Kenya,abs_5.0mm,5.0,2001,30
+West Kenya,abs_5.0mm,5.0,2002,19
+West Kenya,abs_5.0mm,5.0,2003,36
+West Kenya,abs_5.0mm,5.0,2004,16
+West Kenya,abs_5.0mm,5.0,2005,28
+West Kenya,abs_5.0mm,5.0,2006,15
+West Kenya,abs_5.0mm,5.0,2007,21
+West Kenya,abs_5.0mm,5.0,2008,28
+West Kenya,abs_5.0mm,5.0,2009,26
+West Kenya,abs_5.0mm,5.0,2010,11
+West Kenya,abs_5.0mm,5.0,2011,18
+West Kenya,abs_5.0mm,5.0,2012,48
+West Kenya,abs_5.0mm,5.0,2013,23
+West Kenya,abs_5.0mm,5.0,2014,19
+West Kenya,abs_5.0mm,5.0,2015,45
+West Kenya,abs_5.0mm,5.0,2016,19
+West Kenya,abs_5.0mm,5.0,2017,28
+West Kenya,abs_5.0mm,5.0,2018,33
+West Kenya,abs_5.0mm,5.0,2019,31
+West Kenya,abs_5.0mm,5.0,2020,11
+West Kenya,abs_5.0mm,5.0,2021,22
+West Kenya,abs_5.0mm,5.0,2022,20
+West Kenya,abs_5.0mm,5.0,2023,45
+West Kenya,abs_5.0mm,5.0,2024,23
+West Kenya,roll5_1mm,1.0,2000,11
+West Kenya,roll5_1mm,1.0,2001,6
+West Kenya,roll5_1mm,1.0,2002,10
+West Kenya,roll5_1mm,1.0,2003,8
+West Kenya,roll5_1mm,1.0,2004,7
+West Kenya,roll5_1mm,1.0,2005,13
+West Kenya,roll5_1mm,1.0,2006,9
+West Kenya,roll5_1mm,1.0,2007,5
+West Kenya,roll5_1mm,1.0,2008,13
+West Kenya,roll5_1mm,1.0,2009,7
+West Kenya,roll5_1mm,1.0,2010,7
+West Kenya,roll5_1mm,1.0,2011,9
+West Kenya,roll5_1mm,1.0,2012,27
+West Kenya,roll5_1mm,1.0,2013,10
+West Kenya,roll5_1mm,1.0,2014,6
+West Kenya,roll5_1mm,1.0,2015,18
+West Kenya,roll5_1mm,1.0,2016,9
+West Kenya,roll5_1mm,1.0,2017,21
+West Kenya,roll5_1mm,1.0,2018,19
+West Kenya,roll5_1mm,1.0,2019,13
+West Kenya,roll5_1mm,1.0,2020,3
+West Kenya,roll5_1mm,1.0,2021,7
+West Kenya,roll5_1mm,1.0,2022,12
+West Kenya,roll5_1mm,1.0,2023,29
+West Kenya,roll5_1mm,1.0,2024,9
+West Kenya,roll10_1mm,1.0,2000,10
+West Kenya,roll10_1mm,1.0,2001,1
+West Kenya,roll10_1mm,1.0,2002,8
+West Kenya,roll10_1mm,1.0,2003,7
+West Kenya,roll10_1mm,1.0,2004,2
+West Kenya,roll10_1mm,1.0,2005,15
+West Kenya,roll10_1mm,1.0,2006,5
+West Kenya,roll10_1mm,1.0,2007,3
+West Kenya,roll10_1mm,1.0,2008,11
+West Kenya,roll10_1mm,1.0,2009,6
+West Kenya,roll10_1mm,1.0,2010,3
+West Kenya,roll10_1mm,1.0,2011,7
+West Kenya,roll10_1mm,1.0,2012,26
+West Kenya,roll10_1mm,1.0,2013,6
+West Kenya,roll10_1mm,1.0,2014,1
+West Kenya,roll10_1mm,1.0,2015,41
+West Kenya,roll10_1mm,1.0,2016,8
+West Kenya,roll10_1mm,1.0,2017,18
+West Kenya,roll10_1mm,1.0,2018,15
+West Kenya,roll10_1mm,1.0,2019,16
+West Kenya,roll10_1mm,1.0,2021,4
+West Kenya,roll10_1mm,1.0,2022,10
+West Kenya,roll10_1mm,1.0,2023,35
+West Kenya,roll10_1mm,1.0,2024,5
+West Kenya,roll10_2mm,2.0,2000,12
+West Kenya,roll10_2mm,2.0,2001,5
+West Kenya,roll10_2mm,2.0,2002,12
+West Kenya,roll10_2mm,2.0,2003,14
+West Kenya,roll10_2mm,2.0,2004,7
+West Kenya,roll10_2mm,2.0,2005,20
+West Kenya,roll10_2mm,2.0,2006,11
+West Kenya,roll10_2mm,2.0,2007,10
+West Kenya,roll10_2mm,2.0,2008,18
+West Kenya,roll10_2mm,2.0,2009,20
+West Kenya,roll10_2mm,2.0,2010,5
+West Kenya,roll10_2mm,2.0,2011,17
+West Kenya,roll10_2mm,2.0,2012,47
+West Kenya,roll10_2mm,2.0,2013,11
+West Kenya,roll10_2mm,2.0,2014,11
+West Kenya,roll10_2mm,2.0,2015,42
+West Kenya,roll10_2mm,2.0,2016,19
+West Kenya,roll10_2mm,2.0,2017,21
+West Kenya,roll10_2mm,2.0,2018,18
+West Kenya,roll10_2mm,2.0,2019,25
+West Kenya,roll10_2mm,2.0,2020,3
+West Kenya,roll10_2mm,2.0,2021,11
+West Kenya,roll10_2mm,2.0,2022,14
+West Kenya,roll10_2mm,2.0,2023,41
+West Kenya,roll10_2mm,2.0,2024,8
+West Kenya,pct_10,0.6439615488052368,2000,8
+West Kenya,pct_10,0.6439615488052368,2001,7
+West Kenya,pct_10,0.6439615488052368,2002,7
+West Kenya,pct_10,0.6439615488052368,2003,9
+West Kenya,pct_10,0.6439615488052368,2004,5
+West Kenya,pct_10,0.6439615488052368,2005,15
+West Kenya,pct_10,0.6439615488052368,2006,10
+West Kenya,pct_10,0.6439615488052368,2007,4
+West Kenya,pct_10,0.6439615488052368,2008,3
+West Kenya,pct_10,0.6439615488052368,2009,6
+West Kenya,pct_10,0.6439615488052368,2010,8
+West Kenya,pct_10,0.6439615488052368,2011,8
+West Kenya,pct_10,0.6439615488052368,2012,23
+West Kenya,pct_10,0.6439615488052368,2013,10
+West Kenya,pct_10,0.6439615488052368,2014,6
+West Kenya,pct_10,0.6439615488052368,2015,10
+West Kenya,pct_10,0.6439615488052368,2016,9
+West Kenya,pct_10,0.6439615488052368,2017,11
+West Kenya,pct_10,0.6439615488052368,2018,4
+West Kenya,pct_10,0.6439615488052368,2019,10
+West Kenya,pct_10,0.6439615488052368,2020,5
+West Kenya,pct_10,0.6439615488052368,2021,4
+West Kenya,pct_10,0.6439615488052368,2022,5
+West Kenya,pct_10,0.6439615488052368,2023,7
+West Kenya,pct_10,0.6439615488052368,2024,10
+West Kenya,pct_25,1.812229871749878,2000,15
+West Kenya,pct_25,1.812229871749878,2001,9
+West Kenya,pct_25,1.812229871749878,2002,14
+West Kenya,pct_25,1.812229871749878,2003,10
+West Kenya,pct_25,1.812229871749878,2004,11
+West Kenya,pct_25,1.812229871749878,2005,16
+West Kenya,pct_25,1.812229871749878,2006,11
+West Kenya,pct_25,1.812229871749878,2007,9
+West Kenya,pct_25,1.812229871749878,2008,8
+West Kenya,pct_25,1.812229871749878,2009,10
+West Kenya,pct_25,1.812229871749878,2010,9
+West Kenya,pct_25,1.812229871749878,2011,11
+West Kenya,pct_25,1.812229871749878,2012,28
+West Kenya,pct_25,1.812229871749878,2013,12
+West Kenya,pct_25,1.812229871749878,2014,10
+West Kenya,pct_25,1.812229871749878,2015,23
+West Kenya,pct_25,1.812229871749878,2016,14
+West Kenya,pct_25,1.812229871749878,2017,25
+West Kenya,pct_25,1.812229871749878,2018,23
+West Kenya,pct_25,1.812229871749878,2019,16
+West Kenya,pct_25,1.812229871749878,2020,5
+West Kenya,pct_25,1.812229871749878,2021,11
+West Kenya,pct_25,1.812229871749878,2022,11
+West Kenya,pct_25,1.812229871749878,2023,24
+West Kenya,pct_25,1.812229871749878,2024,11
+West Kenya,pct_50,4.391979217529297,2000,20
+West Kenya,pct_50,4.391979217529297,2001,25
+West Kenya,pct_50,4.391979217529297,2002,19
+West Kenya,pct_50,4.391979217529297,2003,36
+West Kenya,pct_50,4.391979217529297,2004,15
+West Kenya,pct_50,4.391979217529297,2005,25
+West Kenya,pct_50,4.391979217529297,2006,15
+West Kenya,pct_50,4.391979217529297,2007,21
+West Kenya,pct_50,4.391979217529297,2008,28
+West Kenya,pct_50,4.391979217529297,2009,21
+West Kenya,pct_50,4.391979217529297,2010,11
+West Kenya,pct_50,4.391979217529297,2011,18
+West Kenya,pct_50,4.391979217529297,2012,47
+West Kenya,pct_50,4.391979217529297,2013,23
+West Kenya,pct_50,4.391979217529297,2014,18
+West Kenya,pct_50,4.391979217529297,2015,45
+West Kenya,pct_50,4.391979217529297,2016,19
+West Kenya,pct_50,4.391979217529297,2017,26
+West Kenya,pct_50,4.391979217529297,2018,24
+West Kenya,pct_50,4.391979217529297,2019,31
+West Kenya,pct_50,4.391979217529297,2020,10
+West Kenya,pct_50,4.391979217529297,2021,22
+West Kenya,pct_50,4.391979217529297,2022,20
+West Kenya,pct_50,4.391979217529297,2023,45
+West Kenya,pct_50,4.391979217529297,2024,18
+Sudan central,abs_0.5mm,0.5,2000,105
+Sudan central,abs_0.5mm,0.5,2001,143
+Sudan central,abs_0.5mm,0.5,2002,147
+Sudan central,abs_0.5mm,0.5,2003,142
+Sudan central,abs_0.5mm,0.5,2004,143
+Sudan central,abs_0.5mm,0.5,2005,112
+Sudan central,abs_0.5mm,0.5,2006,121
+Sudan central,abs_0.5mm,0.5,2007,118
+Sudan central,abs_0.5mm,0.5,2008,108
+Sudan central,abs_0.5mm,0.5,2009,158
+Sudan central,abs_0.5mm,0.5,2010,154
+Sudan central,abs_0.5mm,0.5,2011,141
+Sudan central,abs_0.5mm,0.5,2012,144
+Sudan central,abs_0.5mm,0.5,2013,163
+Sudan central,abs_0.5mm,0.5,2014,107
+Sudan central,abs_0.5mm,0.5,2015,122
+Sudan central,abs_0.5mm,0.5,2016,124
+Sudan central,abs_0.5mm,0.5,2017,133
+Sudan central,abs_0.5mm,0.5,2018,127
+Sudan central,abs_0.5mm,0.5,2019,128
+Sudan central,abs_0.5mm,0.5,2020,160
+Sudan central,abs_0.5mm,0.5,2021,115
+Sudan central,abs_0.5mm,0.5,2022,157
+Sudan central,abs_0.5mm,0.5,2023,149
+Sudan central,abs_0.5mm,0.5,2024,142
+Sudan central,abs_1.0mm,1.0,2000,105
+Sudan central,abs_1.0mm,1.0,2001,146
+Sudan central,abs_1.0mm,1.0,2002,148
+Sudan central,abs_1.0mm,1.0,2003,147
+Sudan central,abs_1.0mm,1.0,2004,162
+Sudan central,abs_1.0mm,1.0,2005,143
+Sudan central,abs_1.0mm,1.0,2006,128
+Sudan central,abs_1.0mm,1.0,2007,118
+Sudan central,abs_1.0mm,1.0,2008,111
+Sudan central,abs_1.0mm,1.0,2009,159
+Sudan central,abs_1.0mm,1.0,2010,154
+Sudan central,abs_1.0mm,1.0,2011,141
+Sudan central,abs_1.0mm,1.0,2012,144
+Sudan central,abs_1.0mm,1.0,2013,169
+Sudan central,abs_1.0mm,1.0,2014,109
+Sudan central,abs_1.0mm,1.0,2015,150
+Sudan central,abs_1.0mm,1.0,2016,125
+Sudan central,abs_1.0mm,1.0,2017,134
+Sudan central,abs_1.0mm,1.0,2018,146
+Sudan central,abs_1.0mm,1.0,2019,147
+Sudan central,abs_1.0mm,1.0,2020,160
+Sudan central,abs_1.0mm,1.0,2021,123
+Sudan central,abs_1.0mm,1.0,2022,178
+Sudan central,abs_1.0mm,1.0,2023,154
+Sudan central,abs_1.0mm,1.0,2024,193
+Sudan central,abs_2.0mm,2.0,2000,132
+Sudan central,abs_2.0mm,2.0,2001,146
+Sudan central,abs_2.0mm,2.0,2002,197
+Sudan central,abs_2.0mm,2.0,2003,150
+Sudan central,abs_2.0mm,2.0,2004,173
+Sudan central,abs_2.0mm,2.0,2005,144
+Sudan central,abs_2.0mm,2.0,2006,134
+Sudan central,abs_2.0mm,2.0,2007,172
+Sudan central,abs_2.0mm,2.0,2008,116
+Sudan central,abs_2.0mm,2.0,2009,197
+Sudan central,abs_2.0mm,2.0,2010,168
+Sudan central,abs_2.0mm,2.0,2011,142
+Sudan central,abs_2.0mm,2.0,2012,172
+Sudan central,abs_2.0mm,2.0,2013,195
+Sudan central,abs_2.0mm,2.0,2014,144
+Sudan central,abs_2.0mm,2.0,2015,176
+Sudan central,abs_2.0mm,2.0,2016,191
+Sudan central,abs_2.0mm,2.0,2017,134
+Sudan central,abs_2.0mm,2.0,2018,148
+Sudan central,abs_2.0mm,2.0,2019,150
+Sudan central,abs_2.0mm,2.0,2020,187
+Sudan central,abs_2.0mm,2.0,2021,193
+Sudan central,abs_2.0mm,2.0,2022,191
+Sudan central,abs_2.0mm,2.0,2023,160
+Sudan central,abs_2.0mm,2.0,2024,207
+Sudan central,abs_5.0mm,5.0,2000,256
+Sudan central,abs_5.0mm,5.0,2001,168
+Sudan central,abs_5.0mm,5.0,2002,365
+Sudan central,abs_5.0mm,5.0,2003,207
+Sudan central,abs_5.0mm,5.0,2004,176
+Sudan central,abs_5.0mm,5.0,2005,219
+Sudan central,abs_5.0mm,5.0,2006,235
+Sudan central,abs_5.0mm,5.0,2007,176
+Sudan central,abs_5.0mm,5.0,2008,250
+Sudan central,abs_5.0mm,5.0,2009,205
+Sudan central,abs_5.0mm,5.0,2010,194
+Sudan central,abs_5.0mm,5.0,2011,226
+Sudan central,abs_5.0mm,5.0,2012,223
+Sudan central,abs_5.0mm,5.0,2013,213
+Sudan central,abs_5.0mm,5.0,2014,203
+Sudan central,abs_5.0mm,5.0,2015,215
+Sudan central,abs_5.0mm,5.0,2016,191
+Sudan central,abs_5.0mm,5.0,2017,365
+Sudan central,abs_5.0mm,5.0,2018,202
+Sudan central,abs_5.0mm,5.0,2019,159
+Sudan central,abs_5.0mm,5.0,2020,210
+Sudan central,abs_5.0mm,5.0,2021,200
+Sudan central,abs_5.0mm,5.0,2022,218
+Sudan central,abs_5.0mm,5.0,2023,365
+Sudan central,abs_5.0mm,5.0,2024,208
+Sudan central,roll5_1mm,1.0,2000,133
+Sudan central,roll5_1mm,1.0,2001,149
+Sudan central,roll5_1mm,1.0,2002,197
+Sudan central,roll5_1mm,1.0,2003,150
+Sudan central,roll5_1mm,1.0,2004,173
+Sudan central,roll5_1mm,1.0,2005,144
+Sudan central,roll5_1mm,1.0,2006,132
+Sudan central,roll5_1mm,1.0,2007,173
+Sudan central,roll5_1mm,1.0,2008,185
+Sudan central,roll5_1mm,1.0,2009,197
+Sudan central,roll5_1mm,1.0,2010,194
+Sudan central,roll5_1mm,1.0,2011,143
+Sudan central,roll5_1mm,1.0,2012,173
+Sudan central,roll5_1mm,1.0,2013,172
+Sudan central,roll5_1mm,1.0,2014,144
+Sudan central,roll5_1mm,1.0,2015,177
+Sudan central,roll5_1mm,1.0,2016,191
+Sudan central,roll5_1mm,1.0,2017,136
+Sudan central,roll5_1mm,1.0,2018,147
+Sudan central,roll5_1mm,1.0,2019,150
+Sudan central,roll5_1mm,1.0,2020,208
+Sudan central,roll5_1mm,1.0,2021,193
+Sudan central,roll5_1mm,1.0,2022,191
+Sudan central,roll5_1mm,1.0,2023,160
+Sudan central,roll5_1mm,1.0,2024,207
+Sudan central,roll10_1mm,1.0,2000,184
+Sudan central,roll10_1mm,1.0,2001,167
+Sudan central,roll10_1mm,1.0,2002,197
+Sudan central,roll10_1mm,1.0,2003,180
+Sudan central,roll10_1mm,1.0,2004,175
+Sudan central,roll10_1mm,1.0,2005,148
+Sudan central,roll10_1mm,1.0,2006,134
+Sudan central,roll10_1mm,1.0,2007,176
+Sudan central,roll10_1mm,1.0,2008,192
+Sudan central,roll10_1mm,1.0,2009,198
+Sudan central,roll10_1mm,1.0,2010,194
+Sudan central,roll10_1mm,1.0,2011,147
+Sudan central,roll10_1mm,1.0,2012,180
+Sudan central,roll10_1mm,1.0,2013,206
+Sudan central,roll10_1mm,1.0,2014,177
+Sudan central,roll10_1mm,1.0,2015,181
+Sudan central,roll10_1mm,1.0,2016,191
+Sudan central,roll10_1mm,1.0,2017,137
+Sudan central,roll10_1mm,1.0,2018,149
+Sudan central,roll10_1mm,1.0,2019,153
+Sudan central,roll10_1mm,1.0,2020,209
+Sudan central,roll10_1mm,1.0,2021,200
+Sudan central,roll10_1mm,1.0,2022,194
+Sudan central,roll10_1mm,1.0,2023,163
+Sudan central,roll10_1mm,1.0,2024,208
+Sudan central,roll10_2mm,2.0,2000,233
+Sudan central,roll10_2mm,2.0,2001,170
+Sudan central,roll10_2mm,2.0,2002,231
+Sudan central,roll10_2mm,2.0,2003,184
+Sudan central,roll10_2mm,2.0,2004,180
+Sudan central,roll10_2mm,2.0,2005,186
+Sudan central,roll10_2mm,2.0,2006,223
+Sudan central,roll10_2mm,2.0,2007,178
+Sudan central,roll10_2mm,2.0,2008,243
+Sudan central,roll10_2mm,2.0,2009,205
+Sudan central,roll10_2mm,2.0,2010,196
+Sudan central,roll10_2mm,2.0,2011,226
+Sudan central,roll10_2mm,2.0,2012,228
+Sudan central,roll10_2mm,2.0,2013,212
+Sudan central,roll10_2mm,2.0,2014,204
+Sudan central,roll10_2mm,2.0,2015,365
+Sudan central,roll10_2mm,2.0,2016,194
+Sudan central,roll10_2mm,2.0,2017,221
+Sudan central,roll10_2mm,2.0,2018,204
+Sudan central,roll10_2mm,2.0,2019,159
+Sudan central,roll10_2mm,2.0,2020,212
+Sudan central,roll10_2mm,2.0,2021,201
+Sudan central,roll10_2mm,2.0,2022,218
+Sudan central,roll10_2mm,2.0,2023,365
+Sudan central,roll10_2mm,2.0,2024,211
+Sudan central,pct_50,0.00022532892762683332,2000,80
+Sudan central,pct_50,0.00022532892762683332,2001,77
+Sudan central,pct_50,0.00022532892762683332,2002,116
+Sudan central,pct_50,0.00022532892762683332,2003,55
+Sudan central,pct_50,0.00022532892762683332,2004,94
+Sudan central,pct_50,0.00022532892762683332,2005,69
+Sudan central,pct_50,0.00022532892762683332,2006,72
+Sudan central,pct_50,0.00022532892762683332,2007,84
+Sudan central,pct_50,0.00022532892762683332,2008,71
+Sudan central,pct_50,0.00022532892762683332,2009,97
+Sudan central,pct_50,0.00022532892762683332,2010,40
+Sudan central,pct_50,0.00022532892762683332,2011,109
+Sudan central,pct_50,0.00022532892762683332,2012,88
+Sudan central,pct_50,0.00022532892762683332,2013,121
+Sudan central,pct_50,0.00022532892762683332,2014,43
+Sudan central,pct_50,0.00022532892762683332,2015,61
+Sudan central,pct_50,0.00022532892762683332,2016,72
+Sudan central,pct_50,0.00022532892762683332,2017,44
+Sudan central,pct_50,0.00022532892762683332,2018,47
+Sudan central,pct_50,0.00022532892762683332,2019,43
+Sudan central,pct_50,0.00022532892762683332,2020,60
+Sudan central,pct_50,0.00022532892762683332,2021,106
+Sudan central,pct_50,0.00022532892762683332,2022,95
+Sudan central,pct_50,0.00022532892762683332,2023,66
+Sudan central,pct_50,0.00022532892762683332,2024,67

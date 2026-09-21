@@ -1,0 +1,63 @@
+
+================================================================================
+RUNOFF EFFICIENCY ANALYSIS — DRY BASIN PARADOX
+Generated: 2026-09-17 15:17
+================================================================================
+
+1. HYPOTHESIS
+--------------------------------------------------------------------------------
+If dry years produce MORE runoff per mm of rain (higher runoff ratio), then
+parched soils shed water efficiently when rains return — this is the "dry
+basin paradox". This would explain why NE DRC dry season duration correlates
+with SSD floods at r=0.76.
+
+2. ANNUAL RUNOFF RATIO BY REGION
+--------------------------------------------------------------------------------
+Mean runoff ratios (ro/tp) across 2000-2024:
+  South Sudan    : 0.1347 (std 0.0126, n=25)
+  Uganda         : 0.2617 (std 0.0174, n=25)
+  NE DRC         : 0.1947 (std 0.0351, n=25)
+  Ethiopia       : 0.3659 (std 0.0151, n=25)
+  West Kenya     : 0.3213 (std 0.0325, n=25)
+  Sudan central  : 0.0129 (std 0.0144, n=25)
+
+3. DRY-BASIN PARADOX TEST
+--------------------------------------------------------------------------------
+Correlation between annual rainfall and runoff ratio per region.
+NEGATIVE r = dry years have higher runoff ratio = paradox confirmed.
+  South Sudan    : r=  0.702 (p=0.000) ***  ❌ proportional (buffered)
+  Uganda         : r=  0.709 (p=0.000) ***  ❌ proportional (buffered)
+  NE DRC         : r=  0.815 (p=0.000) ***  ❌ proportional (buffered)
+  Ethiopia       : r=  0.169 (p=0.419) ns  — no relationship
+  West Kenya     : r=  0.656 (p=0.000) ***  ❌ proportional (buffered)
+  Sudan central  : r=  0.357 (p=0.080) ns  ❌ proportional (buffered)
+
+4. RUNOFF RATIO → SSD FLOODS
+--------------------------------------------------------------------------------
+Does upstream runoff efficiency predict SSD flood extent?
+  South Sudan    : flood_mean r= -0.266 (p=0.199), flood_max r= -0.311 (p=0.130)
+  Uganda         : flood_mean r= -0.069 (p=0.742), flood_max r= -0.134 (p=0.522)
+  NE DRC         : flood_mean r= -0.332 (p=0.105), flood_max r= -0.382 (p=0.060)
+  Ethiopia       : flood_mean r=  0.236 (p=0.256), flood_max r=  0.281 (p=0.174)
+  West Kenya     : flood_mean r= -0.010 (p=0.960), flood_max r= -0.069 (p=0.744)
+  Sudan central  : flood_mean r=  0.171 (p=0.413), flood_max r=  0.198 (p=0.343)
+
+5. INTERPRETATION
+--------------------------------------------------------------------------------
+If NE DRC or Sudan central show:
+  - NEGATIVE correlation between rainfall and runoff ratio (paradox confirmed)
+  - POSITIVE correlation between runoff ratio and SSD floods
+
+then the full mechanism chain is:
+
+  Dry year in NE DRC
+    → parched soils, low vegetation cover
+    → higher runoff ratio when rains arrive
+    → more water enters Bahr el Ghazal
+    → Sudd wetland expands
+    → SSD floods increase
+
+This is a stronger, more mechanistic version of the earlier finding that
+just dry season DURATION correlates with floods.
+
+================================================================================

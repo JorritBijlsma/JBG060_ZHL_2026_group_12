@@ -1,0 +1,114 @@
+
+================================================================================
+DRY SEASON THRESHOLD SENSITIVITY ANALYSIS
+Generated: 2026-09-16 16:42
+================================================================================
+
+1. PURPOSE
+--------------------------------------------------------------------------------
+The "dry season" definition is arbitrary. This analysis tests whether the
+NE DRC → SSD flood relationship is robust across 10 different definitions:
+
+Absolute thresholds:  0.5, 1.0, 2.0, 5.0 mm/day
+Rolling-mean:         5-day and 10-day rolling mean at 1-2 mm/day
+Percentile:           10th, 25th, 50th percentile per region
+
+A finding is "robust" only if it holds across multiple thresholds.
+
+2. CORRELATIONS PER REGION × THRESHOLD
+--------------------------------------------------------------------------------
+
+  South Sudan:
+    abs_0.5mm      : r=  0.142 (p=0.500) mean_dur=40.8d
+    abs_1.0mm      : r=  0.375 (p=0.065) mean_dur=54.3d
+    abs_2.0mm      : r=  0.132 (p=0.531) mean_dur=74.6d
+    abs_5.0mm      : r= -0.120 (p=0.566) mean_dur=101.0d
+    pct_10         : r=  0.395 (p=0.051) mean_dur=12.0d
+    pct_25         : r=  0.469 (p=0.018)* mean_dur=30.6d
+    pct_50         : r=  0.196 (p=0.349) mean_dur=72.7d
+    roll10_1mm     : r=  0.247 (p=0.233) mean_dur=77.4d
+    roll10_2mm     : r=  0.307 (p=0.136) mean_dur=98.7d
+    roll5_1mm      : r=  0.187 (p=0.370) mean_dur=71.4d
+
+  Uganda:
+    abs_0.5mm      : r= -0.128 (p=0.542) mean_dur=6.3d
+    abs_1.0mm      : r= -0.024 (p=0.910) mean_dur=10.4d
+    abs_2.0mm      : r=  0.195 (p=0.350) mean_dur=16.2d
+    abs_5.0mm      : r=  0.207 (p=0.320) mean_dur=36.0d
+    pct_10         : r= -0.131 (p=0.531) mean_dur=8.6d
+    pct_25         : r=  0.232 (p=0.264) mean_dur=14.6d
+    pct_50         : r=  0.130 (p=0.536) mean_dur=25.8d
+    roll10_1mm     : r=  0.081 (p=0.701) mean_dur=10.2d
+    roll10_2mm     : r=  0.218 (p=0.295) mean_dur=23.9d
+    roll5_1mm      : r= -0.013 (p=0.953) mean_dur=11.7d
+
+  NE DRC:
+    abs_0.5mm      : r=  0.366 (p=0.072) mean_dur=18.9d
+    abs_1.0mm      : r=  0.761 (p=0.000)* mean_dur=24.8d
+    abs_2.0mm      : r=  0.623 (p=0.001)* mean_dur=30.6d
+    abs_5.0mm      : r=  0.575 (p=0.003)* mean_dur=51.0d
+    pct_10         : r=  0.436 (p=0.029)* mean_dur=12.9d
+    pct_25         : r=  0.761 (p=0.000)* mean_dur=24.8d
+    pct_50         : r=  0.506 (p=0.010)* mean_dur=37.2d
+    roll10_1mm     : r=  0.627 (p=0.001)* mean_dur=36.0d
+    roll10_2mm     : r=  0.594 (p=0.002)* mean_dur=50.2d
+    roll5_1mm      : r=  0.585 (p=0.002)* mean_dur=31.1d
+
+  Ethiopia:
+    abs_0.5mm      : r=  0.273 (p=0.186) mean_dur=30.7d
+    abs_1.0mm      : r=  0.138 (p=0.510) mean_dur=43.0d
+    abs_2.0mm      : r=  0.050 (p=0.812) mean_dur=56.9d
+    abs_5.0mm      : r= -0.080 (p=0.704) mean_dur=96.1d
+    pct_10         : r=  0.303 (p=0.140) mean_dur=12.8d
+    pct_25         : r=  0.273 (p=0.186) mean_dur=30.7d
+    pct_50         : r= -0.035 (p=0.868) mean_dur=69.8d
+    roll10_1mm     : r=  0.130 (p=0.535) mean_dur=61.0d
+    roll10_2mm     : r=  0.072 (p=0.731) mean_dur=89.6d
+    roll5_1mm      : r=  0.062 (p=0.768) mean_dur=52.1d
+
+  West Kenya:
+    abs_0.5mm      : r= -0.183 (p=0.382) mean_dur=7.3d
+    abs_1.0mm      : r= -0.096 (p=0.648) mean_dur=10.0d
+    abs_2.0mm      : r=  0.238 (p=0.251) mean_dur=14.3d
+    abs_5.0mm      : r=  0.168 (p=0.422) mean_dur=25.4d
+    pct_10         : r= -0.141 (p=0.503) mean_dur=8.2d
+    pct_25         : r=  0.081 (p=0.701) mean_dur=13.8d
+    pct_50         : r=  0.171 (p=0.414) mean_dur=24.1d
+    roll10_1mm     : r=  0.265 (p=0.210) mean_dur=11.0d
+    roll10_2mm     : r=  0.168 (p=0.422) mean_dur=16.9d
+    roll5_1mm      : r=  0.293 (p=0.156) mean_dur=11.5d
+
+  Sudan central:
+    abs_0.5mm      : r=  0.258 (p=0.212) mean_dur=134.5d
+    abs_1.0mm      : r=  0.469 (p=0.018)* mean_dur=143.8d
+    abs_2.0mm      : r=  0.351 (p=0.085) mean_dur=164.8d
+    abs_5.0mm      : r=  0.264 (p=0.202) mean_dur=226.0d
+    pct_50         : r=  0.007 (p=0.974) mean_dur=75.1d
+    roll10_1mm     : r=  0.238 (p=0.252) mean_dur=177.6d
+    roll10_2mm     : r=  0.447 (p=0.025)* mean_dur=218.0d
+    roll5_1mm      : r=  0.331 (p=0.106) mean_dur=168.8d
+
+3. ROBUSTNESS VERDICT
+--------------------------------------------------------------------------------
+  South Sudan    : 1/10 thresholds significant, mean r=0.233 (± 0.168)  ⚠️ PARTIAL
+  Uganda         : 0/10 thresholds significant, mean r=0.077 (± 0.142)  ❌ not robust
+  NE DRC         : 9/10 thresholds significant, mean r=0.583 (± 0.126)  ✅ ROBUST
+  Ethiopia       : 0/10 thresholds significant, mean r=0.119 (± 0.131)  ❌ not robust
+  West Kenya     : 0/10 thresholds significant, mean r=0.096 (± 0.175)  ❌ not robust
+  Sudan central  : 2/8 thresholds significant, mean r=0.296 (± 0.145)  ⚠️ PARTIAL
+
+4. INTERPRETATION
+--------------------------------------------------------------------------------
+Regions marked ✅ ROBUST show the dry-season → flood signal consistently
+across all reasonable threshold definitions. These are the reliable
+predictors for flood forecasting.
+
+Regions marked ❌ not robust only show the signal at specific thresholds,
+meaning the earlier finding may have been an artifact of threshold choice.
+
+5. RECOMMENDATION FOR THE REPORT
+--------------------------------------------------------------------------------
+Report the ROBUST regions as primary findings, and mention threshold
+sensitivity as a robustness check.
+
+================================================================================
